@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Bigdata from '../assets/images/Banner/newbanimg/bigdata.png';
+const Bigdata = '/assets/images/Banner/newbanimg/bigdata.png';
 
 
 

@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import DesignImage1 from '../assets/images/design-image-1.png';
-import DesignImage2 from '../assets/images/design-image-2.png';
-import Trip from '../assets/images/trip.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const DesignImage1 = '/assets/images/design-image-1.png';
+const DesignImage2 = '/assets/images/design-image-2.png';
+const Trip = '/assets/images/trip.png';
 
 
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import InternImage2 from '../assets/images/intern-image-2.png';
+const InternImage2 = '/assets/images/intern-image-2.png';
 
 
 const Internship = () => {

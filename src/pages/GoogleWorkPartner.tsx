@@ -1,18 +1,18 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import GoogleImage1 from '../assets/images/google-image-1.png';
-import GoogleImage2 from '../assets/images/google-image-2.png';
-import GIm1 from '../assets/images/g-im-1.png';
-import GIm2 from '../assets/images/g-im-2.png';
-import GIm3 from '../assets/images/g-im-3.png';
-import GIm4 from '../assets/images/g-im-4.png';
-import GIm5 from '../assets/images/g-im-5.png';
-import GIm6 from '../assets/images/g-im-6.png';
-import GIm7 from '../assets/images/g-im-7.png';
-import GIm8 from '../assets/images/g-im-8.png';
-import GIm9 from '../assets/images/g-im-9.png';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import Trip from '../assets/images/trip.png';
+const GoogleImage1 = '/assets/images/google-image-1.png';
+const GoogleImage2 = '/assets/images/google-image-2.png';
+const GIm1 = '/assets/images/g-im-1.png';
+const GIm2 = '/assets/images/g-im-2.png';
+const GIm3 = '/assets/images/g-im-3.png';
+const GIm4 = '/assets/images/g-im-4.png';
+const GIm5 = '/assets/images/g-im-5.png';
+const GIm6 = '/assets/images/g-im-6.png';
+const GIm7 = '/assets/images/g-im-7.png';
+const GIm8 = '/assets/images/g-im-8.png';
+const GIm9 = '/assets/images/g-im-9.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const Trip = '/assets/images/trip.png';
 
 
 const GoogleWorkPartner = () => {

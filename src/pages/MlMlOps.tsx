@@ -1,5 +1,5 @@
 import React from 'react';
-import MlMlOpsImg from '../assets/images/Banner/newbanimg/mlmlops.png';
+const MlMlOpsImg = '/assets/images/Banner/newbanimg/mlmlops.png';
 
 const MlMlOps = () => {
   return (

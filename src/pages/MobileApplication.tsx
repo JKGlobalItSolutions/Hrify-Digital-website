@@ -1,7 +1,7 @@
 import React from "react";
-import MobileAppImage from '../assets/images/mobile-app-image.png';
-import MobileImage2 from '../assets/images/mobile-image-2.png';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
+const MobileAppImage = '/assets/images/mobile-app-image.png';
+const MobileImage2 = '/assets/images/mobile-image-2.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
 
 const MobileApplication = () => {
   return (

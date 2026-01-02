@@ -1,5 +1,5 @@
 import React from 'react';
-import EnterpriseImg from '../assets/images/Banner/newbanimg/enterprise.png';
+const EnterpriseImg = '/assets/images/Banner/newbanimg/enterprise.png';
 
 
 const Enterprise = () => {

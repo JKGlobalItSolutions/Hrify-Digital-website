@@ -1,22 +1,22 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import AwsImage1 from '../assets/images/aws-image-1.png';
-import AwsImage2 from '../assets/images/aws-image-2.png';
-import AIm1 from '../assets/images/a-im-1.png';
-import AIm2 from '../assets/images/a-im-2.png';
-import AIm3 from '../assets/images/a-im-3.png';
-import AIm4 from '../assets/images/a-im-4.png';
-import AIm5 from '../assets/images/a-im-5.png';
-import AIm6 from '../assets/images/a-im-6.png';
-import AIm7 from '../assets/images/a-im-7.png';
-import AIm8 from '../assets/images/a-im-8.png';
-import AIm9 from '../assets/images/a-im-9.png';
-import AIm10 from '../assets/images/a-im-10.png';
-import AIm11 from '../assets/images/a-im-11.png';
-import AIm12 from '../assets/images/a-im-12.png';
-import Construction from '../assets/images/construction.png';
-import Trip from '../assets/images/trip.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const AwsImage1 = '/assets/images/aws-image-1.png';
+const AwsImage2 = '/assets/images/aws-image-2.png';
+const AIm1 = '/assets/images/a-im-1.png';
+const AIm2 = '/assets/images/a-im-2.png';
+const AIm3 = '/assets/images/a-im-3.png';
+const AIm4 = '/assets/images/a-im-4.png';
+const AIm5 = '/assets/images/a-im-5.png';
+const AIm6 = '/assets/images/a-im-6.png';
+const AIm7 = '/assets/images/a-im-7.png';
+const AIm8 = '/assets/images/a-im-8.png';
+const AIm9 = '/assets/images/a-im-9.png';
+const AIm10 = '/assets/images/a-im-10.png';
+const AIm11 = '/assets/images/a-im-11.png';
+const AIm12 = '/assets/images/a-im-12.png';
+const Construction = '/assets/images/construction.png';
+const Trip = '/assets/images/trip.png';
 
 
 

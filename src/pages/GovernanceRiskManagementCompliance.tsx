@@ -1,8 +1,8 @@
 import React from 'react';
-import Govtrisk11 from '../assets/images/govtrisk1-(1).jpg';
-import Govtrisk12 from '../assets/images/govtrisk1-(2).jpg';
-import Govtrisk13 from '../assets/images/govtrisk1-(3).jpg';
-import Govtrisk from '../assets/images/govtrisk.png';
+const Govtrisk11 = '/assets/images/govtrisk1-(1).jpg';
+const Govtrisk12 = '/assets/images/govtrisk1-(2).jpg';
+const Govtrisk13 = '/assets/images/govtrisk1-(3).jpg';
+const Govtrisk = '/assets/images/govtrisk.png';
 
 
 const GovernanceRiskManagementCompliance = () => {

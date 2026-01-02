@@ -1,5 +1,5 @@
 import React from 'react';
-import Endusercom from '../assets/images/Banner/newbanimg/endusercom.png';
+const Endusercom = '/assets/images/Banner/newbanimg/endusercom.png';
 
 const HelpDesk = () => {
   return (

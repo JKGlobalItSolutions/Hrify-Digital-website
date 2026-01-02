@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: mode === 'production' ? "/hrify-digital/" : "/",
+  base: mode === 'production' ? "/Hrify-Digital-website/" : "/",
   plugins: [react()],
   resolve: {
     alias: {

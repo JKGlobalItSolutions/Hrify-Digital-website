@@ -1,20 +1,20 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import StrucuturedCablingBanner from '../assets/images/strucutred-image-2.png';
-import StrucutredImage2 from '../assets/images/strucutred-image-2.png';
-import BringLogo1 from '../assets/images/bring-logo-1.png';
-import BringLogo2 from '../assets/images/bring-logo-2.png';
-import BringLogo3 from '../assets/images/bring-logo-3.png';
-import BringLogo4 from '../assets/images/bring-logo-4.png';
-import BringLogo5 from '../assets/images/bring-logo-5.png';
-import SysLog1 from '../assets/images/sys-log-1.png';
-import SysLogo2 from '../assets/images/sys-logo-2.png';
-import SysLogo3 from '../assets/images/sys-logo-3.png';
-import SysLogo4 from '../assets/images/sys-logo-4.png';
-import SysLogo5 from '../assets/images/sys-logo-5.png';
-import SysLogo6 from '../assets/images/sys-logo-6.png';
-import SysLogo7 from '../assets/images/sys-logo-7.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const StrucuturedCablingBanner = '/assets/images/strucutred-image-2.png';
+const StrucutredImage2 = '/assets/images/strucutred-image-2.png';
+const BringLogo1 = '/assets/images/bring-logo-1.png';
+const BringLogo2 = '/assets/images/bring-logo-2.png';
+const BringLogo3 = '/assets/images/bring-logo-3.png';
+const BringLogo4 = '/assets/images/bring-logo-4.png';
+const BringLogo5 = '/assets/images/bring-logo-5.png';
+const SysLog1 = '/assets/images/sys-log-1.png';
+const SysLogo2 = '/assets/images/sys-logo-2.png';
+const SysLogo3 = '/assets/images/sys-logo-3.png';
+const SysLogo4 = '/assets/images/sys-logo-4.png';
+const SysLogo5 = '/assets/images/sys-logo-5.png';
+const SysLogo6 = '/assets/images/sys-logo-6.png';
+const SysLogo7 = '/assets/images/sys-logo-7.png';
 
 
 

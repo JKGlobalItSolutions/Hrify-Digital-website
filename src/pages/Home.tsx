@@ -1,21 +1,21 @@
 import React, { useEffect } from 'react';
 import './Home.css';
-import Banner2 from '../assets/images/Banner/Banner-2.png';
-import Banner3 from '../assets/images/Banner/Banner-3.png';
-import Banner4 from '../assets/images/Banner/Banner-4.png';
-import Banner5 from '../assets/images/Banner/Banner-5.png';
-import Banner7 from '../assets/images/Banner/Banner-7.png';
-import Enterprise from '../assets/images/Banner/Enterprise.jpg';
-import Cybersecurity from '../assets/images/Banner/Cybersecurity.jpg';
-import Blockchain from '../assets/images/Banner/Blockchain.jpg';
-import Managed from '../assets/images/Banner/Managed.jpg';
-import DataAnalytics from '../assets/images/Banner/DataAnalytics.jpg';
-import Img32 from '../assets/images/Talent/img3-(2).png';
-import Im7 from '../assets/images/Talent/im7.png';
-import Icon32 from '../assets/images/Talent/icon3-(2).png';
-import Icon42 from '../assets/images/Talent/icon4-(2).png';
-import Icon52 from '../assets/images/Talent/icon5-(2).png';
-import Icon62 from '../assets/images/Talent/icon6-(2).png';
+const Banner2 = '/assets/images/Banner/Banner-2.png';
+const Banner3 = '/assets/images/Banner/Banner-3.png';
+const Banner4 = '/assets/images/Banner/Banner-4.png';
+const Banner5 = '/assets/images/Banner/Banner-5.png';
+const Banner7 = '/assets/images/Banner/Banner-7.png';
+const Enterprise = '/assets/images/Banner/Enterprise.jpg';
+const Cybersecurity = '/assets/images/Banner/Cybersecurity.jpg';
+const Blockchain = '/assets/images/Banner/Blockchain.jpg';
+const Managed = '/assets/images/Banner/Managed.jpg';
+const DataAnalytics = '/assets/images/Banner/DataAnalytics.jpg';
+const Img32 = '/assets/images/Talent/img3-(2).png';
+const Im7 = '/assets/images/Talent/im7.png';
+const Icon32 = '/assets/images/Talent/icon3-(2).png';
+const Icon42 = '/assets/images/Talent/icon4-(2).png';
+const Icon52 = '/assets/images/Talent/icon5-(2).png';
+const Icon62 = '/assets/images/Talent/icon6-(2).png';
 
 
 

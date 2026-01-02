@@ -1,5 +1,5 @@
 import React from 'react';
-import ManagedTestingServices1 from '../assets/images/Banner/newbanimg/Managed-Testing-Services-1.png';
+const ManagedTestingServices1 = '/assets/images/Banner/newbanimg/Managed-Testing-Services-1.png';
 
 
 

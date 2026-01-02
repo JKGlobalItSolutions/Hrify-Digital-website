@@ -1,5 +1,5 @@
 import React from 'react';
-import VendorManagement from '../assets/images/Vendor-Management.png';
+const VendorManagementImg = '/assets/images/Vendor-Management.png';
 
 const VendorManagement = () => {
   return (
@@ -15,7 +15,7 @@ const VendorManagement = () => {
           <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center p-4">
             <img
               className="img-fluid"
-              src={VendorManagement}
+              src={VendorManagementImg}
               alt="Vendor Management"
               style={{ maxHeight: '520px', objectFit: 'contain' }}
             />

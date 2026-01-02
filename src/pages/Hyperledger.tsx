@@ -1,5 +1,5 @@
 import React from 'react';
-import HyperledgerImg from '../assets/images/Banner/newbanimg/Hyperledger.png';
+const HyperledgerImg = '/assets/images/Banner/newbanimg/Hyperledger.png';
 
 
 const Hyperledger = () => {

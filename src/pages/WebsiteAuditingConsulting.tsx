@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import WebAudiitImage1 from '../assets/images/web-audiit-image-1.png';
-import WebAuditImage2 from '../assets/images/web-audit-image-2.png';
+const WebAudiitImage1 = '/assets/images/web-audiit-image-1.png';
+const WebAuditImage2 = '/assets/images/web-audit-image-2.png';
 
 const WebsiteAuditingConsulting = () => {
   useEffect(() => {

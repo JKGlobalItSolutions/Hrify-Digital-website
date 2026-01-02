@@ -1,5 +1,5 @@
 import React from 'react';
-import Dapps from '../assets/images/Banner/newbanimg/dapps.png';
+const Dapps = '/assets/images/Banner/newbanimg/dapps.png';
 
 const DApps = () => {
   return (

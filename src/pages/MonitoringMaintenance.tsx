@@ -1,5 +1,5 @@
 import React from 'react';
-import Monitoring from '../assets/images/Banner/newbanimg/monitoring.png';
+const Monitoring = '/assets/images/Banner/newbanimg/monitoring.png';
 
 const MonitoringMaintenance = () => {
   return (

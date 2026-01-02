@@ -1,8 +1,8 @@
 import React from 'react';
-import Cybermanifacter1 from '../assets/images/cyber_manifacter-(1).jpg';
-import CyberSecurity from '../assets/images/cyber-security.png';
-import Cyber_finace from '../assets/images/cyber_finace.jpg';
-import Cyber_helth from '../assets/images/cyber_helth.jpg';
+const Cybermanifacter1 = '/assets/images/cyber_manifacter-(1).jpg';
+const CyberSecurity = '/assets/images/cyber-security.png';
+const Cyber_finace = '/assets/images/cyber_finace.jpg';
+const Cyber_helth = '/assets/images/cyber_helth.jpg';
 
 
 

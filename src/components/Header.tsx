@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import './Header.css';
-import HrifyLogo from '../assets/images/hrify-logo.png';
+const HrifyLogo = '/assets/images/hrify-logo.png';
 
 // Modular menu data to avoid duplication (DRY)
 const menuData = {

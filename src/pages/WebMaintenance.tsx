@@ -1,7 +1,7 @@
 import React from 'react';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import WebMainBanner from '../assets/images/web-main-banner.png';
-import WebMainImage2 from '../assets/images/web-main-image-2.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const WebMainBanner = '/assets/images/web-main-banner.png';
+const WebMainImage2 = '/assets/images/web-main-image-2.png';
 
 
 

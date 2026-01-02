@@ -1,5 +1,5 @@
 import React from 'react';
-import NlpAiImg from '../assets/images/Banner/newbanimg/NLP-ai.png';
+const NlpAiImg = '/assets/images/Banner/newbanimg/NLP-ai.png';
 
 
 const AiNlp = () => {

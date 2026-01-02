@@ -1,5 +1,5 @@
 import React from 'react';
-import Ipfs from '../assets/images/Banner/newbanimg/ipfs.png';
+const Ipfs = '/assets/images/Banner/newbanimg/ipfs.png';
 
 const IPFS = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
-import Cloudnativebanner from '../assets/images/cloud-native-banner.png';
-import AwsImage1 from '../assets/images/aws-image-1.png';
+const Cloudnativebanner = '/assets/images/cloud-native-banner.png';
+const AwsImage1 = '/assets/images/aws-image-1.png';
 
 
 

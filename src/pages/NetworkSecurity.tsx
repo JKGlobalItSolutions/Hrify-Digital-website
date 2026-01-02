@@ -1,21 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import NetworkImage from '../assets/images/network-image.png';
-import NetworkImage2 from '../assets/images/network-image-2.png';
-import NetworkLogo1 from '../assets/images/network-logo-1.png';
-import NetworkLogo2 from '../assets/images/network-logo-2.png';
-import NetworkLogo3 from '../assets/images/network-logo-3.png';
-import NetworkLogo4 from '../assets/images/network-logo-4.png';
-import NetworkLogo5 from '../assets/images/network-logo-5.png';
-import NetworkLogo6 from '../assets/images/network-logo-6.png';
-import SysLog1 from '../assets/images/sys-log-1.png';
-import SysLogo2 from '../assets/images/sys-logo-2.png';
-import SysLogo3 from '../assets/images/sys-logo-3.png';
-import SysLogo4 from '../assets/images/sys-logo-4.png';
-import SysLogo5 from '../assets/images/sys-logo-5.png';
-import SysLogo6 from '../assets/images/sys-logo-6.png';
-import SysLogo7 from '../assets/images/sys-logo-7.png';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
+const NetworkImage = '/assets/images/network-image.png';
+const NetworkImage2 = '/assets/images/network-image-2.png';
+const NetworkLogo1 = '/assets/images/network-logo-1.png';
+const NetworkLogo2 = '/assets/images/network-logo-2.png';
+const NetworkLogo3 = '/assets/images/network-logo-3.png';
+const NetworkLogo4 = '/assets/images/network-logo-4.png';
+const NetworkLogo5 = '/assets/images/network-logo-5.png';
+const NetworkLogo6 = '/assets/images/network-logo-6.png';
+const SysLog1 = '/assets/images/sys-log-1.png';
+const SysLogo2 = '/assets/images/sys-logo-2.png';
+const SysLogo3 = '/assets/images/sys-logo-3.png';
+const SysLogo4 = '/assets/images/sys-logo-4.png';
+const SysLogo5 = '/assets/images/sys-logo-5.png';
+const SysLogo6 = '/assets/images/sys-logo-6.png';
+const SysLogo7 = '/assets/images/sys-logo-7.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
 
 const NetworkSecurity = () => {
   return (

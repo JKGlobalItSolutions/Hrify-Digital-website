@@ -1,6 +1,6 @@
 import React from 'react';
 
-import DataFabricImg from '../assets/images/Banner/newbanimg/Data-Fabric.png';
+const DataFabricImg = '/assets/images/Banner/newbanimg/Data-Fabric.png';
 
 
 

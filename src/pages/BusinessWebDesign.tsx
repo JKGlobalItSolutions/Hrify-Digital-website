@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import BusinessWebDesignBanner from '../assets/images/business-web-design-banner.png';
-import WorkFlow from '../assets/images/work-flow.png';
-import Trip from '../assets/images/trip.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const BusinessWebDesignBanner = '/assets/images/business-web-design-banner.png';
+const WorkFlow = '/assets/images/work-flow.png';
+const Trip = '/assets/images/trip.png';
 
 
 

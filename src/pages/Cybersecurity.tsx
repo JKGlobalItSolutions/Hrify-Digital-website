@@ -1,6 +1,6 @@
 import React from 'react';
-import Cybersecuritybackground from '../assets/images/Rectangle-27.png';
-import Cybersecurity_banner from '../assets/images/cyber-security.png';
+const Cybersecuritybackground = '/assets/images/Rectangle-27.png';
+const Cybersecurity_banner = '/assets/images/cyber-security.png';
 
 
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import Refferlbanner from '../assets/images/about-banner.png';
+const Refferlbanner = '/assets/images/about-banner.png';
 
 
 const ReferralProgram = () => {

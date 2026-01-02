@@ -1,5 +1,5 @@
 import React from 'react';
-import TestEngineer from '../assets/images/Banner/newbanimg/testengineer.png';
+const TestEngineer = '/assets/images/Banner/newbanimg/testengineer.png';
 
 const AgileTesting = () => {
   return (

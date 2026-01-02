@@ -1,5 +1,5 @@
 import React from 'react';
-import ZeroTrust1 from '../assets/images/Banner/newbanimg/zero-trust-1.png';
+const ZeroTrust1 = '/assets/images/Banner/newbanimg/zero-trust-1.png';
 
 const ZeroTrustArchitecture = () => {
   return (

@@ -76,7 +76,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter basename={import.meta.env.MODE === 'production' ? '/hrify-digital/' : '/'}>
+    <BrowserRouter basename={import.meta.env.MODE === 'production' ? '/Hrify-Digital-website/' : '/'}>
       <div className="App d-flex flex-column min-vh-100">
         <Header />
         <main className="flex-grow-1">

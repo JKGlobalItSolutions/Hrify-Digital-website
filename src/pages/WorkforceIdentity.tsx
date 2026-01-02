@@ -1,5 +1,5 @@
 import React from 'react';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
 
 
 

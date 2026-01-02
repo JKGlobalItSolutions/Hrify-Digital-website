@@ -1,8 +1,8 @@
 import React from 'react';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import CmsWebBanner from '../assets/images/cms-web-banner.png';
-import CmsImage2 from '../assets/images/cms-image-2.png';
-import Trip from '../assets/images/trip.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const CmsWebBanner = '/assets/images/cms-web-banner.png';
+const CmsImage2 = '/assets/images/cms-image-2.png';
+const Trip = '/assets/images/trip.png';
 
 
 

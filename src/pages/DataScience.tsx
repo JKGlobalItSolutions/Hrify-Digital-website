@@ -1,5 +1,5 @@
 import React from 'react';
-import DataScienceImg from '../assets/images/Banner/newbanimg/datascience.png';
+const DataScienceImg = '/assets/images/Banner/newbanimg/datascience.png';
 
 const DataScience = () => {
   return (

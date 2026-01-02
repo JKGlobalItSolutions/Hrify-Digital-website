@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import MatrimonyImage1 from '../assets/images/matrimony-image-1.png';
-import MatrimonyImage2 from '../assets/images/matrimony-image-2.png';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import Trip from '../assets/images/trip.png';
+const MatrimonyImage1 = '/assets/images/matrimony-image-1.png';
+const MatrimonyImage2 = '/assets/images/matrimony-image-2.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const Trip = '/assets/images/trip.png';
 
 
 const MatrimonyWebSolutions = () => {

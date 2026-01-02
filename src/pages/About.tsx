@@ -1,7 +1,7 @@
 import React from 'react';
-import AboutImage from '../assets/images/about-image.png';
-import Dhakshana from '../assets/images/dhakshana.png';
-import Biggest from '../assets/images/biggest.png';
+const AboutImage = '/assets/images/about-image.png';
+const Dhakshana = '/assets/images/dhakshana.png';
+const Biggest = '/assets/images/biggest.png';
 
 
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import './CIAM.css';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import Ciam from '../assets/images/about-image.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const Ciam = '/assets/images/about-image.png';
 
 
 const CIAM = () => {

@@ -1,6 +1,6 @@
 import React from 'react';
-import InternetOfThingsImg from '../assets/images/Banner/newbanimg/Internet-of-Things.png';
-import Iot from '../assets/images/erp/iot.jpg';
+const InternetOfThingsImg = '/assets/images/Banner/newbanimg/Internet-of-Things.png';
+const Iot = '/assets/images/erp/iot.jpg';
 
 const InternetOfThings = () => {
   return (

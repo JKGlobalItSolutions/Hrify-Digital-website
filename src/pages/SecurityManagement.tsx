@@ -1,5 +1,5 @@
 import React from 'react';
-import SecurityManagement from '../assets/images/security-management.png';
+const SecurityManagementImg = '/assets/images/security-management.png';
 
 const SecurityManagement = () => {
   return (
@@ -15,7 +15,7 @@ const SecurityManagement = () => {
           <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center p-4">
             <img
               className="img-fluid"
-              src={SecurityManagement}
+              src={SecurityManagementImg}
               alt="Security Management"
               style={{ maxHeight: '520px', objectFit: 'contain' }}
             />

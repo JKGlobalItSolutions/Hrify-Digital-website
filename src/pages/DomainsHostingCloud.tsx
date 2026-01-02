@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import DomainImage1 from '../assets/images/domain-image-1.png';
-import DomainImage2 from '../assets/images/domain-image-2.png';
-import DomainImage3 from '../assets/images/domain-image-3.png';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import Trip from '../assets/images/trip.png';
+const DomainImage1 = '/assets/images/domain-image-1.png';
+const DomainImage2 = '/assets/images/domain-image-2.png';
+const DomainImage3 = '/assets/images/domain-image-3.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const Trip = '/assets/images/trip.png';
 
 
 const DomainsHostingCloud = () => {

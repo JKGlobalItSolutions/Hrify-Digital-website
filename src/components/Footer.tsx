@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import HrifyLogo from '../assets/images/hrify-logo.png';
-import Fb from '../assets/images/footer-icon/fb.png';
-import YoutubeIcon from '../assets/images/youtube-icon.png';
-import X from '../assets/images/footer-icon/x.png';
-import Linkdin from '../assets/images/footer-icon/linkdin.png';
-import Insta from '../assets/images/footer-icon/insta.png';
-import WhatsappSymbolSvg from '../assets/images/whatsapp_symbol.svg.png';
-import DownloadIcon from '../assets/images/download-icon.png';
+const HrifyLogo = '/assets/images/hrify-logo.png';
+const Fb = '/assets/images/footer-icon/fb.png';
+const YoutubeIcon = '/assets/images/youtube-icon.png';
+const X = '/assets/images/footer-icon/x.png';
+const Linkdin = '/assets/images/footer-icon/linkdin.png';
+const Insta = '/assets/images/footer-icon/insta.png';
+const WhatsappSymbolSvg = '/assets/images/whatsapp_symbol.svg.png';
+const DownloadIcon = '/assets/images/download-icon.png';
 
 const Footer = () => {
   const [showPopup, setShowPopup] = useState(false);

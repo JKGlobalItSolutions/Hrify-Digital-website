@@ -1,5 +1,5 @@
 import React from 'react';
-import Cyberdefrnse from '../assets/images/cyberdefrnse.png';
+const Cyberdefrnse = '/assets/images/cyberdefrnse.png';
 
 const CyberDefenseInvestigation = () => {
   return (

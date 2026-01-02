@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import ECommerceImage1 from '../assets/images/e-commerce-image-1.png';
-import ECommerceImage2 from '../assets/images/e-commerce-image-2.png';
-import Rectangle27 from '../assets/images/Rectangle-27.png';
-import Trip from '../assets/images/trip.png';
+const ECommerceImage1 = '/assets/images/e-commerce-image-1.png';
+const ECommerceImage2 = '/assets/images/e-commerce-image-2.png';
+const Rectangle27 = '/assets/images/Rectangle-27.png';
+const Trip = '/assets/images/trip.png';
 
 
 const ECommerceWebSolutions = () => {

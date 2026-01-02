@@ -1,5 +1,5 @@
 import React from 'react';
-import Nft from '../assets/images/Banner/newbanimg/nft.png';
+const Nft = '/assets/images/Banner/newbanimg/nft.png';
 
 const NFT = () => {
   return (
