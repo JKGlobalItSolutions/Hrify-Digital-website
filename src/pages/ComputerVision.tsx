@@ -1,5 +1,5 @@
 import React from 'react';
-const ComputerVisionImg = '/assets/images/Banner/newbanimg/computervision.png';
+const ComputerVisionImg = '/assets/images/Banner/newbanimg/computervision.webp';
 
 const ComputerVision = () => {
   return (

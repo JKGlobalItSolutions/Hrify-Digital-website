@@ -1,5 +1,5 @@
 import React from 'react';
-const Monitoring = '/assets/images/Banner/newbanimg/monitoring.png';
+const Monitoring = '/assets/images/Banner/newbanimg/monitoring.webp';
 
 const MonitoringMaintenance = () => {
   return (

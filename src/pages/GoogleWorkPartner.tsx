@@ -1,18 +1,18 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const GoogleImage1 = '/assets/images/google-image-1.png';
-const GoogleImage2 = '/assets/images/google-image-2.png';
-const GIm1 = '/assets/images/g-im-1.png';
-const GIm2 = '/assets/images/g-im-2.png';
-const GIm3 = '/assets/images/g-im-3.png';
-const GIm4 = '/assets/images/g-im-4.png';
-const GIm5 = '/assets/images/g-im-5.png';
-const GIm6 = '/assets/images/g-im-6.png';
-const GIm7 = '/assets/images/g-im-7.png';
-const GIm8 = '/assets/images/g-im-8.png';
-const GIm9 = '/assets/images/g-im-9.png';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
-const Trip = '/assets/images/trip.png';
+const GoogleImage1 = '/assets/images/google-image-1.webp';
+const GoogleImage2 = '/assets/images/google-image-2.webp';
+const GIm1 = '/assets/images/g-im-1.webp';
+const GIm2 = '/assets/images/g-im-2.webp';
+const GIm3 = '/assets/images/g-im-3.webp';
+const GIm4 = '/assets/images/g-im-4.webp';
+const GIm5 = '/assets/images/g-im-5.webp';
+const GIm6 = '/assets/images/g-im-6.webp';
+const GIm7 = '/assets/images/g-im-7.webp';
+const GIm8 = '/assets/images/g-im-8.webp';
+const GIm9 = '/assets/images/g-im-9.webp';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
+const Trip = '/assets/images/trip.webp';
 
 
 const GoogleWorkPartner = () => {

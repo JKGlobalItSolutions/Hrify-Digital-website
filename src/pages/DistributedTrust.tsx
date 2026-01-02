@@ -1,5 +1,5 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/bl7.png';
+const BannerImage = '/assets/images/newBanner/bl7.webp';
 
 const DistributedTrust = () => {
   return (
@@ -163,7 +163,7 @@ const DistributedTrust = () => {
           </p>
 
           <div className="image-showcase">
-            <img src="/assets/images/blockchain/bitcoin.png" alt="Blockchain Network" />
+            <img src="/assets/images/blockchain/bitcoin.webp" alt="Blockchain Network" />
           </div>
 
           <p className="content-text">
@@ -200,7 +200,7 @@ const DistributedTrust = () => {
             <h2 className="section-title">Key Features & Capabilities</h2>
 
             <div className="image-showcase">
-              <img src="/assets/images/blockchain/blockchain.jpg" alt="Key Features" />
+              <img src="/assets/images/blockchain/blockchain.webp" alt="Key Features" />
             </div>
 
             <p className="content-text"><strong>🚀 Enhanced Scalability:</strong> Adopting Ethereum 2.0's Proof-of-Stake and sharding mechanisms, we offer optimized transaction processing and scalability for high-performance decentralized applications.</p>
@@ -218,7 +218,7 @@ const DistributedTrust = () => {
             <h2 className="section-title">Explore Real-World Blockchain Applications</h2>
 
             <div className="image-showcase">
-              <img src="/assets/images/blockchain/bitcon1.png" alt="Blockchain Use Cases" />
+              <img src="/assets/images/blockchain/bitcon1.webp" alt="Blockchain Use Cases" />
             </div>
 
             <ul className="features-list">

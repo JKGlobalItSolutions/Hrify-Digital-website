@@ -1,19 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
-const InfraLogo1 = '/assets/images/infra-logo-1.png';
-const InfraImage2 = '/assets/images/infra-image-2.png';
-const InfraL1 = '/assets/images/infra-l-1.png';
-const InfraL2 = '/assets/images/infra-l-2.png';
-const InfraL3 = '/assets/images/infra-l-3.png';
-const InfraL4 = '/assets/images/infra-l-4.png';
-const SysLog1 = '/assets/images/sys-log-1.png';
-const SysLogo2 = '/assets/images/sys-logo-2.png';
-const SysLogo3 = '/assets/images/sys-logo-3.png';
-const SysLogo4 = '/assets/images/sys-logo-4.png';
-const SysLogo5 = '/assets/images/sys-logo-5.png';
-const SysLogo6 = '/assets/images/sys-logo-6.png';
-const SysLogo7 = '/assets/images/sys-logo-7.png';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
+const InfraLogo1 = '/assets/images/infra-logo-1.webp';
+const InfraImage2 = '/assets/images/infra-image-2.webp';
+const InfraL1 = '/assets/images/infra-l-1.webp';
+const InfraL2 = '/assets/images/infra-l-2.webp';
+const InfraL3 = '/assets/images/infra-l-3.webp';
+const InfraL4 = '/assets/images/infra-l-4.webp';
+const SysLog1 = '/assets/images/sys-log-1.webp';
+const SysLogo2 = '/assets/images/sys-logo-2.webp';
+const SysLogo3 = '/assets/images/sys-logo-3.webp';
+const SysLogo4 = '/assets/images/sys-logo-4.webp';
+const SysLogo5 = '/assets/images/sys-logo-5.webp';
+const SysLogo6 = '/assets/images/sys-logo-6.webp';
+const SysLogo7 = '/assets/images/sys-logo-7.webp';
 
 
 

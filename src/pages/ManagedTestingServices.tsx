@@ -1,9 +1,9 @@
 import React from 'react';
-const ManagedTestingServices1 = '/assets/images/newBanner/ma.ser.png';
-const Performance = '/assets/images/placeholder.png';
-const Ci = '/assets/images/placeholder.png';
-const Softwarvald = '/assets/images/placeholder.png';
-const Softwareqa = '/assets/images/placeholder.png';
+const ManagedTestingServices1 = '/assets/images/newBanner/ma.ser.webp';
+const Performance = '/assets/images/placeholder.webp';
+const Ci = '/assets/images/placeholder.webp';
+const Softwarvald = '/assets/images/placeholder.webp';
+const Softwareqa = '/assets/images/placeholder.webp';
 
 
 

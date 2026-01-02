@@ -1,8 +1,8 @@
 import React from 'react';
 import './CIAM.css';
-const BannerImage = '/assets/images/newBanner/cy9.png';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
-const Ciam = '/assets/images/about-image.png';
+const BannerImage = '/assets/images/newBanner/cy9.webp';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
+const Ciam = '/assets/images/about-image.webp';
 
 
 const CIAM = () => {

@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/bl9.png';
-const Ipfs = '/assets/images/Banner/newbanimg/ipfs.png';
+const BannerImage = '/assets/images/newBanner/bl9.webp';
+const Ipfs = '/assets/images/Banner/newbanimg/ipfs.webp';
 
 const IPFS = () => {
   return (

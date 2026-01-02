@@ -1,9 +1,9 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/cy13.png';
-const Govtrisk11 = '/assets/images/govtrisk1-(1).jpg';
-const Govtrisk12 = '/assets/images/govtrisk1-(2).jpg';
-const Govtrisk13 = '/assets/images/govtrisk1-(3).jpg';
-const Govtrisk = '/assets/images/govtrisk.png';
+const BannerImage = '/assets/images/newBanner/cy13.webp';
+const Govtrisk11 = '/assets/images/govtrisk1-(1).webp';
+const Govtrisk12 = '/assets/images/govtrisk1-(2).webp';
+const Govtrisk13 = '/assets/images/govtrisk1-(3).webp';
+const Govtrisk = '/assets/images/govtrisk.webp';
 
 
 const GovernanceRiskManagementCompliance = () => {

@@ -1,7 +1,7 @@
 import React from 'react';
 
-const BannerImage = '/assets/images/newBanner/data.an8.png';
-const DataFabricImg = '/assets/images/Banner/newbanimg/Data-Fabric.png';
+const BannerImage = '/assets/images/newBanner/data.an8.webp';
+const DataFabricImg = '/assets/images/Banner/newbanimg/Data-Fabric.webp';
 
 const DataFabric = () => {
   return (

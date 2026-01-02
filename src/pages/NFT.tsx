@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/bl8.png';
-const Nft = '/assets/images/Banner/newbanimg/nft.png';
+const BannerImage = '/assets/images/newBanner/bl8.webp';
+const Nft = '/assets/images/Banner/newbanimg/nft.webp';
 
 const NFT = () => {
   return (

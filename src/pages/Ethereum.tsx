@@ -1,5 +1,5 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/bl10.png';
+const BannerImage = '/assets/images/newBanner/bl10.webp';
 
 const Ethereum = () => {
   return (
@@ -208,7 +208,7 @@ const Ethereum = () => {
           </p>
 
           <div className="image-showcase">
-            <img src="/assets/images/blockchain/ethereumvector.jpg" alt="Ethereum Network" />
+            <img src="/assets/images/blockchain/ethereumvector.webp" alt="Ethereum Network" />
           </div>
 
           <h2 className="section-title">Why Choose Ethereum?</h2>

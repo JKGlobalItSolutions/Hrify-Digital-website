@@ -1,12 +1,12 @@
 import React from 'react';
 import './Sonachala.css'; // Assuming we might need CSS
-const Logo = '/assets/images/sonachala/logo.png';
-const Revenue = '/assets/images/sonachala/revenune.jpg';
-const Engine = '/assets/images/sonachala/Engine.jpg';
-const Tech = '/assets/images/sonachala/tech.jpg';
-const Travel = '/assets/images/sonachala/traval.jpg';
-const Facility = '/assets/images/sonachala/Facility.jpg';
-const Ota = '/assets/images/sonachala/ota.jpg';
+const Logo = '/assets/images/sonachala/logo.webp';
+const Revenue = '/assets/images/sonachala/revenune.webp';
+const Engine = '/assets/images/sonachala/Engine.webp';
+const Tech = '/assets/images/sonachala/tech.webp';
+const Travel = '/assets/images/sonachala/traval.webp';
+const Facility = '/assets/images/sonachala/Facility.webp';
+const Ota = '/assets/images/sonachala/ota.webp';
 
 const Sonachala = () => {
   return (

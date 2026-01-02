@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/data.an4.png';
-const DataScienceImg = '/assets/images/Banner/newbanimg/datascience.png';
+const BannerImage = '/assets/images/newBanner/data.an4.webp';
+const DataScienceImg = '/assets/images/Banner/newbanimg/datascience.webp';
 
 const DataScience = () => {
   return (

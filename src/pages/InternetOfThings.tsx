@@ -1,7 +1,7 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/data.an.png';
-const InternetOfThingsImg = '/assets/images/Banner/newbanimg/Internet-of-Things.png';
-const Iot = '/assets/images/erp/iot.jpg';
+const BannerImage = '/assets/images/newBanner/data.an.webp';
+const InternetOfThingsImg = '/assets/images/Banner/newbanimg/Internet-of-Things.webp';
+const Iot = '/assets/images/erp/iot.webp';
 
 const InternetOfThings = () => {
   return (

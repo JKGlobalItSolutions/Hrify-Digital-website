@@ -11,14 +11,14 @@ const CloudNativeSolutions = () => {
             <h2 className="fw-bolder">Cloud Native Solutions</h2>
           </div>
           <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-            <img className="img-fluid" src="/assets/images/cloud native banner.png" alt="Network Security" />
+            <img className="img-fluid" src="/assets/images/cloud native banner.webp" alt="Network Security" />
           </div>
         </div>
       </div>
       <style dangerouslySetInnerHTML={{
         __html: `
           .banner {
-            background-image: url(/assets/images/Rectangle 27.png);
+            background-image: url(/assets/images/Rectangle 27.webp);
             height: 600px;
           }
 
@@ -53,7 +53,7 @@ const CloudNativeSolutions = () => {
               Be it high-performance cabling or the new optical fiber network adopt to structured cabling systems with cables and associated hardware for all kinds of needs within a specific building or across buildings or within a huge campus</p>
           </div>
           <div className="col-12 col-lg-4">
-            <img className="img-fluid" src="/assets/images/cloud native image 1.png" alt="" />
+            <img className="img-fluid" src="/assets/images/cloud native image 1.webp" alt="" />
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/systemintegration">
               <span className="box">
-                <img src="/assets/images/sys log 1.png" alt="" className="me-2" />
+                <img src="/assets/images/sys log 1.webp" alt="" className="me-2" />
                 <b>System Integration &Maintenance</b>
               </span>
             </Link>
@@ -94,7 +94,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/infrastructure">
               <span className="box">
-                <img src="/assets/images/sys logo 2.png" alt="" className="me-2" />
+                <img src="/assets/images/sys logo 2.webp" alt="" className="me-2" />
                 <b>Infrastructure Management</b>
               </span>
             </Link>
@@ -103,7 +103,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/serverstorage">
               <span className="box">
-                <img src="/assets/images/sys logo 3.png" alt="" className="me-2" />
+                <img src="/assets/images/sys logo 3.webp" alt="" className="me-2" />
                 <b>Server & Storage</b>
               </span>
             </Link>
@@ -111,7 +111,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/networksecurity">
               <span className="box">
-                <img src="/assets/images/sys logo 4.png" alt="" className="me-2" />
+                <img src="/assets/images/sys logo 4.webp" alt="" className="me-2" />
                 <b>Network security</b>
               </span>
             </Link>
@@ -119,7 +119,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/structuredcabling">
               <span className="box">
-                <img src="/assets/images/sys logo 5.png" alt="" className="me-2" />
+                <img src="/assets/images/sys logo 5.webp" alt="" className="me-2" />
                 <b>Structured Cabling</b>
               </span>
             </Link>
@@ -127,7 +127,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/cloudnative">
               <span style={{ backgroundColor: 'black', border: 'none' }} className="box">
-                <img src="/assets/images/sys logo 6.png" alt="" className="me-2" />
+                <img src="/assets/images/sys logo 6.webp" alt="" className="me-2" />
                 <b>Cloud Native Solution</b>
               </span>
             </Link>
@@ -135,7 +135,7 @@ const CloudNativeSolutions = () => {
           <div className="col-12 col-md-6 col-lg-4 mb-3">
             <Link style={{ textDecoration: 'none' }} to="/workplace">
               <span className="box">
-                <img src="/assets/images/sys logo 7.png" alt="" className="me-2" />
+                <img src="/assets/images/sys logo 7.webp" alt="" className="me-2" />
                 <b>Workpalce Surveillance</b>
               </span>
             </Link>

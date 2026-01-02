@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/cy14.png';
-const Cyberdefrnse = '/assets/images/cyberdefrnse.png';
+const BannerImage = '/assets/images/newBanner/cy14.webp';
+const Cyberdefrnse = '/assets/images/cyberdefrnse.webp';
 
 const CyberDefenseInvestigation = () => {
   return (

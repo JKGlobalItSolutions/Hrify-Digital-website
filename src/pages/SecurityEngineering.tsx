@@ -1,5 +1,5 @@
 ﻿import React from 'react';
-const BannerImage = '/assets/images/newBanner/cy10.png';
+const BannerImage = '/assets/images/newBanner/cy10.webp';
 
 const SecurityEngineering = () => {
   return (

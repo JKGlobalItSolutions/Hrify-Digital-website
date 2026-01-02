@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/enterprise.png';
-const EnterpriseImg = '/assets/images/Banner/newbanimg/enterprise.png';
+const BannerImage = '/assets/images/newBanner/enterprise.webp';
+const EnterpriseImg = '/assets/images/Banner/newbanimg/enterprise.webp';
 
 
 const Enterprise = () => {

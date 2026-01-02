@@ -1,6 +1,6 @@
 import React from 'react';
-const Cloudnativebanner = '/assets/images/cloud-native-banner.png';
-const AwsImage1 = '/assets/images/aws-image-1.png';
+const Cloudnativebanner = '/assets/images/cloud-native-banner.webp';
+const AwsImage1 = '/assets/images/aws-image-1.webp';
 
 
 

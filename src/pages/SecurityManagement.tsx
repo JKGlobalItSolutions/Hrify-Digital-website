@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/cy10.png';
-const SecurityManagementImg = '/assets/images/security-management.png';
+const BannerImage = '/assets/images/newBanner/cy10.webp';
+const SecurityManagementImg = '/assets/images/security-management.webp';
 
 const SecurityManagement = () => {
   return (

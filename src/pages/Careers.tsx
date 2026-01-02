@@ -1,5 +1,5 @@
 import React from 'react';
-const CareersBanner = '/assets/images/newBanner/enterprise.png';
+const CareersBanner = '/assets/images/newBanner/enterprise.webp';
 
 const Careers = () => {
   return (

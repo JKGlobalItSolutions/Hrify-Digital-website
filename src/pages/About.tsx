@@ -1,11 +1,11 @@
 import React from 'react';
-const AboutBanner = '/assets/images/newBanner/data.an.png';
-const Biggest = '/assets/images/biggest.png';
+const AboutBanner = '/assets/images/newBanner/data.an.webp';
+const Biggest = '/assets/images/biggest.webp';
 
 
 
 const About = () => {
-  const SDECartoon = "/assets/images/hrify logo.png";
+  const SDECartoon = "/assets/images/hrify logo.webp";
   return (
     <div>
       {/* Hero Banner Section */}

@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/data.an1.png';
-const NlpAiImg = '/assets/images/Banner/newbanimg/NLP-ai.png';
+const BannerImage = '/assets/images/newBanner/data.an1.webp';
+const NlpAiImg = '/assets/images/Banner/newbanimg/NLP-ai.webp';
 
 
 const AiNlp = () => {

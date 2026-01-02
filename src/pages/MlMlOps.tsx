@@ -1,5 +1,5 @@
 import React from 'react';
-const MlMlOpsImg = '/assets/images/Banner/newbanimg/mlmlops.png';
+const MlMlOpsImg = '/assets/images/Banner/newbanimg/mlmlops.webp';
 
 const MlMlOps = () => {
   return (

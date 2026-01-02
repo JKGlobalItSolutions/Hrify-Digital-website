@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/ma_ser4.png';
-const Endusercom = '/assets/images/Banner/newbanimg/endusercom.png';
+const BannerImage = '/assets/images/newBanner/ma_ser4.webp';
+const Endusercom = '/assets/images/Banner/newbanimg/endusercom.webp';
 
 const HelpDesk = () => {
   return (

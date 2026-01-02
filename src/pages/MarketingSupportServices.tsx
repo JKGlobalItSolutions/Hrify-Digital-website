@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
-const MarketImage1 = '/assets/images/market-image-1.png';
-const MarketImage2 = '/assets/images/market-image-2.png';
-const MarketImage3 = '/assets/images/market-image-3.png';
+const MarketImage1 = '/assets/images/market-image-1.webp';
+const MarketImage2 = '/assets/images/market-image-2.webp';
+const MarketImage3 = '/assets/images/market-image-3.webp';
 
 const MarketingSupportServices = () => {
   useEffect(() => {

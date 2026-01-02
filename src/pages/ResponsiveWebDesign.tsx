@@ -109,14 +109,14 @@ const ResponsiveWebDesign = () => {
               <h2 className="fw-bolder text-center">Responsive Web-Design</h2>
             </div>
             <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-              <img className="img-fluid" src="/assets/images/res web bannner.png" alt="" />
+              <img className="img-fluid" src="/assets/images/res web bannner.webp" alt="" />
             </div>
           </div>
         </div>
         <style dangerouslySetInnerHTML={{
           __html: `
             .banner {
-              background-image: url(/assets/images/Rectangle\\ 27.png);
+              background-image: url(/assets/images/Rectangle\\ 27.webp);
               height: 600px;
             }
             h2 {
@@ -148,7 +148,7 @@ const ResponsiveWebDesign = () => {
               <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Reduced bounces as a result of the website's structured content display</p>
             </div>
             <div className="col-12 col-lg-4">
-              <img className="img-fluid" src="/assets/images/res web image 2.png" alt="" />
+              <img className="img-fluid" src="/assets/images/res web image 2.webp" alt="" />
             </div>
           </div>
         </div>
@@ -160,7 +160,7 @@ const ResponsiveWebDesign = () => {
             <div className="col-12 col-md-4 mb-3">
               <a style={{ textDecoration: 'none' }} href="businessweb.html">
                 <span className="box">
-                  <img src="/assets/images/trip.png" alt="" className="me-2" />
+                  <img src="/assets/images/trip.webp" alt="" className="me-2" />
                   Business web-design
                 </span>
               </a>
@@ -168,7 +168,7 @@ const ResponsiveWebDesign = () => {
             <div className="col-12 col-md-4 mb-3">
               <a style={{ textDecoration: 'none' }} href="resweb.html">
                 <span className="box">
-                  <img src="/assets/images/trip.png" alt="" className="me-2" />
+                  <img src="/assets/images/trip.webp" alt="" className="me-2" />
                   Responsive web-design
                 </span>
               </a>
@@ -176,7 +176,7 @@ const ResponsiveWebDesign = () => {
             <div className="col-12 col-md-4 mb-3">
               <a style={{ textDecoration: 'none' }} href="cmsweb.html">
                 <span className="box">
-                  <img src="/assets/images/trip.png" alt="" className="me-2" />
+                  <img src="/assets/images/trip.webp" alt="" className="me-2" />
                   CMS Web-design solution
                 </span>
               </a>

@@ -1,21 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const NetworkImage = '/assets/images/network-image.png';
-const NetworkImage2 = '/assets/images/network-image-2.png';
-const NetworkLogo1 = '/assets/images/network-logo-1.png';
-const NetworkLogo2 = '/assets/images/network-logo-2.png';
-const NetworkLogo3 = '/assets/images/network-logo-3.png';
-const NetworkLogo4 = '/assets/images/network-logo-4.png';
-const NetworkLogo5 = '/assets/images/network-logo-5.png';
-const NetworkLogo6 = '/assets/images/network-logo-6.png';
-const SysLog1 = '/assets/images/sys-log-1.png';
-const SysLogo2 = '/assets/images/sys-logo-2.png';
-const SysLogo3 = '/assets/images/sys-logo-3.png';
-const SysLogo4 = '/assets/images/sys-logo-4.png';
-const SysLogo5 = '/assets/images/sys-logo-5.png';
-const SysLogo6 = '/assets/images/sys-logo-6.png';
-const SysLogo7 = '/assets/images/sys-logo-7.png';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
+const NetworkImage = '/assets/images/network-image.webp';
+const NetworkImage2 = '/assets/images/network-image-2.webp';
+const NetworkLogo1 = '/assets/images/network-logo-1.webp';
+const NetworkLogo2 = '/assets/images/network-logo-2.webp';
+const NetworkLogo3 = '/assets/images/network-logo-3.webp';
+const NetworkLogo4 = '/assets/images/network-logo-4.webp';
+const NetworkLogo5 = '/assets/images/network-logo-5.webp';
+const NetworkLogo6 = '/assets/images/network-logo-6.webp';
+const SysLog1 = '/assets/images/sys-log-1.webp';
+const SysLogo2 = '/assets/images/sys-logo-2.webp';
+const SysLogo3 = '/assets/images/sys-logo-3.webp';
+const SysLogo4 = '/assets/images/sys-logo-4.webp';
+const SysLogo5 = '/assets/images/sys-logo-5.webp';
+const SysLogo6 = '/assets/images/sys-logo-6.webp';
+const SysLogo7 = '/assets/images/sys-logo-7.webp';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
 
 const NetworkSecurity = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const BannerImage = '/assets/images/newBanner/data.an5.png';
+const BannerImage = '/assets/images/newBanner/data.an5.webp';
 
 const Analytics = () => {
   return (

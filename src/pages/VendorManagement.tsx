@@ -1,5 +1,5 @@
 import React from 'react';
-const VendorManagementImg = '/assets/images/Vendor-Management.png';
+const VendorManagementImg = '/assets/images/Vendor-Management.webp';
 
 const VendorManagement = () => {
   return (

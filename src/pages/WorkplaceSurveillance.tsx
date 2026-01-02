@@ -1,16 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
-const WorkplaceBanner = '/assets/images/workplace-banner.png';
-const WoekplaceImage2 = '/assets/images/woekplace-image-2.png';
-const WorkplaceGlobe1 = '/assets/images/workplace-globe-1.png';
-const SysLog1 = '/assets/images/sys-log-1.png';
-const SysLogo2 = '/assets/images/sys-logo-2.png';
-const SysLogo3 = '/assets/images/sys-logo-3.png';
-const SysLogo4 = '/assets/images/sys-logo-4.png';
-const SysLogo5 = '/assets/images/sys-logo-5.png';
-const SysLogo6 = '/assets/images/sys-logo-6.png';
-const SysLogo7 = '/assets/images/sys-logo-7.png';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
+const WorkplaceBanner = '/assets/images/workplace-banner.webp';
+const WoekplaceImage2 = '/assets/images/woekplace-image-2.webp';
+const WorkplaceGlobe1 = '/assets/images/workplace-globe-1.webp';
+const SysLog1 = '/assets/images/sys-log-1.webp';
+const SysLogo2 = '/assets/images/sys-logo-2.webp';
+const SysLogo3 = '/assets/images/sys-logo-3.webp';
+const SysLogo4 = '/assets/images/sys-logo-4.webp';
+const SysLogo5 = '/assets/images/sys-logo-5.webp';
+const SysLogo6 = '/assets/images/sys-logo-6.webp';
+const SysLogo7 = '/assets/images/sys-logo-7.webp';
 
 
 

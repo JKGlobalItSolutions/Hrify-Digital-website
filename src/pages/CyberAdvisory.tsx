@@ -1,9 +1,9 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/cy15.png';
-const Cybermanifacter1 = '/assets/images/cyber_manifacter-(1).jpg';
-const CyberSecurity = '/assets/images/cyber-security.png';
-const Cyber_finace = '/assets/images/cyber_finace.jpg';
-const Cyber_helth = '/assets/images/cyber_helth.jpg';
+const BannerImage = '/assets/images/newBanner/cy15.webp';
+const Cybermanifacter1 = '/assets/images/cyber_manifacter-(1).webp';
+const CyberSecurity = '/assets/images/cyber-security.webp';
+const Cyber_finace = '/assets/images/cyber_finace.webp';
+const Cyber_helth = '/assets/images/cyber_helth.webp';
 
 const CyberAdvisory = () => {
   return (

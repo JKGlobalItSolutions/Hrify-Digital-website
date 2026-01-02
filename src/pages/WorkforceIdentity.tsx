@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/cy16.png';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
+const BannerImage = '/assets/images/newBanner/cy16.webp';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
 
 const WorkforceIdentity = () => {
   return (

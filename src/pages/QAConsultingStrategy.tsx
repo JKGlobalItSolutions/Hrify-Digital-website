@@ -1,5 +1,5 @@
 import React from 'react';
-const QaCon = '/assets/images/Banner/newbanimg/qa_con.png';
+const QaCon = '/assets/images/Banner/newbanimg/qa_con.webp';
 
 const QAConsultingStrategy = () => {
   return (

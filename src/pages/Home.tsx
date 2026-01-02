@@ -1,21 +1,21 @@
 import React, { useEffect } from 'react';
 import './Home.css';
-const Banner2 = '/assets/images/newBanner/cy10.png';
-const Banner3 = '/assets/images/newBanner/cy11.png';
-const Banner4 = '/assets/images/newBanner/cy12.png';
-const Banner5 = '/assets/images/newBanner/cy13.png';
-const Banner7 = '/assets/images/newBanner/cy14.png';
-const Enterprise = '/assets/images/newBanner/enterprise.png';
-const Cybersecurity = '/assets/images/newBanner/cy15.png';
-const Blockchain = '/assets/images/newBanner/bl7.png';
-const Managed = '/assets/images/newBanner/ma.ser.png';
-const DataAnalytics = '/assets/images/newBanner/data.an.png';
-const Img32 = '/assets/images/Talent/img3-(2).png';
-const Im7 = '/assets/images/Talent/im7.png';
-const Icon32 = '/assets/images/Talent/icon3-(2).png';
-const Icon42 = '/assets/images/Talent/icon4-(2).png';
-const Icon52 = '/assets/images/Talent/icon5-(2).png';
-const Icon62 = '/assets/images/Talent/icon6-(2).png';
+const Banner2 = '/assets/images/newBanner/cy10.webp';
+const Banner3 = '/assets/images/newBanner/cy11.webp';
+const Banner4 = '/assets/images/newBanner/cy12.webp';
+const Banner5 = '/assets/images/newBanner/cy13.webp';
+const Banner7 = '/assets/images/newBanner/cy14.webp';
+const Enterprise = '/assets/images/newBanner/enterprise.webp';
+const Cybersecurity = '/assets/images/newBanner/cy15.webp';
+const Blockchain = '/assets/images/newBanner/bl7.webp';
+const Managed = '/assets/images/newBanner/ma.ser.webp';
+const DataAnalytics = '/assets/images/newBanner/data.an.webp';
+const Img32 = '/assets/images/Talent/img3-(2).webp';
+const Im7 = '/assets/images/Talent/im7.webp';
+const Icon32 = '/assets/images/Talent/icon3-(2).webp';
+const Icon42 = '/assets/images/Talent/icon4-(2).webp';
+const Icon52 = '/assets/images/Talent/icon5-(2).webp';
+const Icon62 = '/assets/images/Talent/icon6-(2).webp';
 
 const Home = () => {
   useEffect(() => {

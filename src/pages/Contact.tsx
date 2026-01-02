@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react';
-const ContactImage1 = '/assets/images/contact-image-1.png';
-const Frame637 = '/assets/images/Frame-637.png';
-const Frame636 = '/assets/images/Frame-636.png';
-const Frame639 = '/assets/images/Frame-639.png';
-const Frame641 = '/assets/images/Frame-641.png';
-const Frame640 = '/assets/images/Frame-640.png';
-const DownloadIcon = '/assets/images/download-icon.png';
-const Fevicol = '/assets/images/fevicol.png';
+const ContactImage1 = '/assets/images/contact-image-1.webp';
+const Frame637 = '/assets/images/Frame-637.webp';
+const Frame636 = '/assets/images/Frame-636.webp';
+const Frame639 = '/assets/images/Frame-639.webp';
+const Frame641 = '/assets/images/Frame-641.webp';
+const Frame640 = '/assets/images/Frame-640.webp';
+const DownloadIcon = '/assets/images/download-icon.webp';
+const Fevicol = '/assets/images/fevicol.webp';
 
 
 const Contact = () => {

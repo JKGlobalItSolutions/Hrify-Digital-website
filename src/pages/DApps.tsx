@@ -1,6 +1,6 @@
 import React from 'react';
-const BannerImage = '/assets/images/newBanner/bl12.png';
-const Dapps = '/assets/images/Banner/newbanimg/dapps.png';
+const BannerImage = '/assets/images/newBanner/bl12.webp';
+const Dapps = '/assets/images/Banner/newbanimg/dapps.webp';
 
 const DApps = () => {
   return (

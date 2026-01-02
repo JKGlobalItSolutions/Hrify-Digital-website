@@ -1,5 +1,5 @@
 import React from 'react';
-const TestEngineer = '/assets/images/Banner/newbanimg/testengineer.png';
+const TestEngineer = '/assets/images/Banner/newbanimg/testengineer.webp';
 
 const AgileTesting = () => {
   return (

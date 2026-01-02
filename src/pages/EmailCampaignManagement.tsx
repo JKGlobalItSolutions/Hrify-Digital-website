@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const Rectangle27 = '/assets/images/Rectangle-27.png';
-const Email1Image = '/assets/images/email-1-image.png';
-const EmailImage2 = '/assets/images/email-image-2.png';
-const EmailImage3 = '/assets/images/email-image-3.png';
-const Trip = '/assets/images/trip.png';
+const Rectangle27 = '/assets/images/Rectangle-27.webp';
+const Email1Image = '/assets/images/email-1-image.webp';
+const EmailImage2 = '/assets/images/email-image-2.webp';
+const EmailImage3 = '/assets/images/email-image-3.webp';
+const Trip = '/assets/images/trip.webp';
 
 
 

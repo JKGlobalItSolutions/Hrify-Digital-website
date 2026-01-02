@@ -10,14 +10,14 @@ const WebDesign = () => {
             <h2 className="fw-bolder text-center">Web Design</h2>
           </div>
           <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-            <img className="img-fluid" src="/assets/images/design image 1.png" alt="" />
+            <img className="img-fluid" src="/assets/images/design image 1.webp" alt="" />
           </div>
         </div>
       </div>
       <style>
         {`
           .banner {
-            background-image: url(/assets/images/business web design banner.png);
+            background-image: url(/assets/images/business web design banner.webp);
             height: 600px;
           }
           h2 {

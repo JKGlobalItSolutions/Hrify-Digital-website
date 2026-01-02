@@ -1,5 +1,5 @@
 import React from 'react';
-const HeroIndepcertbodiesRemovebgPreview1 = '/assets/images/Banner/newbanimg/hero-indepcertbodies-removebg-preview-1.png';
+const HeroIndepcertbodiesRemovebgPreview1 = '/assets/images/Banner/newbanimg/hero-indepcertbodies-removebg-preview-1.webp';
 
 const IndependentCertification = () => {
   return (

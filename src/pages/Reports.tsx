@@ -14,7 +14,7 @@ const Reports = () => {
           <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center p-4">
             <img
               className="img-fluid"
-              src="/assets/images/Banner/newbanimg/report.png"
+              src="/assets/images/Banner/newbanimg/report.webp"
               alt="Reports"
               style={{ maxHeight: '520px', objectFit: 'contain' }}
             />
