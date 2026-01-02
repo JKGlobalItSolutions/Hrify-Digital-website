@@ -76,11 +76,11 @@ const CMSWebDesign = () => {
           <div className="row">
             <div  className="p-4  col-12" style={{textAlign:'justify'}}> <br/>
                 <h3 style={{color: '#686D76'}}>Benefits of Content Management System</h3> <br/>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; we provide effortless website maintenance and seamless platform updates for smooth operation.</p>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; Small adjustments can be performed quickly.</p>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; Infinite production of pages</p>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; Editing with CMS is feasible anywhere and on any device.</p>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; We specialize in seamless plugin integration for optimizing websites effortlessly.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; we provide effortless website maintenance and seamless platform updates for smooth operation.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Small adjustments can be performed quickly.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Infinite production of pages</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Editing with CMS is feasible anywhere and on any device.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; We specialize in seamless plugin integration for optimizing websites effortlessly.</p>
 
             </div>
         </div>

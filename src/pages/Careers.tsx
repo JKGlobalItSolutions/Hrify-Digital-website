@@ -1,5 +1,5 @@
 import React from 'react';
-import CareersImahe from '/assets/images/careers-imahe.png';
+const CareersBanner = '/assets/images/newBanner/enterprise.png';
 
 const Careers = () => {
   return (
@@ -15,7 +15,7 @@ const Careers = () => {
           <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center p-4">
             <img
               className="img-fluid"
-              src={CareersImahe}
+              src={CareersBanner}
               alt="Careers at JK Global IT Solutions"
               style={{ maxHeight: '520px', objectFit: 'contain' }}
             />
@@ -64,7 +64,7 @@ const Careers = () => {
         <style>
           {`
             .careers-hero {
-              background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
               border-radius: 16px;
               padding: 4rem 2rem;
               margin-bottom: 4rem;
@@ -74,7 +74,7 @@ const Careers = () => {
             .careers-hero h2 {
               font-size: 2.8rem;
               font-weight: 700;
-              color: #d32f2f;
+              color: white;
               margin-bottom: 1.5rem;
               line-height: 1.3;
             }
@@ -95,7 +95,7 @@ const Careers = () => {
               text-align: center;
               font-size: 2.5rem;
               font-weight: 700;
-              color: #d32f2f;
+              color: #1e3a8a;
               margin-bottom: 3rem;
             }
 
@@ -161,7 +161,7 @@ const Careers = () => {
             .value-card h3 {
               font-size: 1.5rem;
               font-weight: 600;
-              color: #d32f2f;
+              color: #1e3a8a;
               margin-bottom: 1rem;
             }
 
@@ -172,7 +172,7 @@ const Careers = () => {
             }
 
             .application-section {
-              background: linear-gradient(135deg, #fff5f5 0%, #ffe0e0 100%);
+              background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
               border-radius: 16px;
               padding: 4rem 2rem;
               margin: 4rem 0;
@@ -188,7 +188,7 @@ const Careers = () => {
             }
 
             .form-label {
-              color: #d32f2f;
+              color: #1e3a8a;
               font-weight: 600;
               margin-bottom: 0.5rem;
               font-size: 0.95rem;
@@ -203,8 +203,8 @@ const Careers = () => {
             }
 
             .form-control:focus, .form-select:focus {
-              border-color: #f30000;
-              box-shadow: 0 0 0 0.2rem rgba(243, 0, 0, 0.1);
+              border-color: #1e3a8a;
+              box-shadow: 0 0 0 0.2rem rgba(30, 58, 138, 0.1);
             }
 
             textarea.form-control {
@@ -213,7 +213,7 @@ const Careers = () => {
             }
 
             .submit-btn {
-              background: linear-gradient(135deg, #f30000 0%, #c50000 100%);
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
               color: white;
               border: none;
               border-radius: 50px;
@@ -221,13 +221,13 @@ const Careers = () => {
               font-size: 1.1rem;
               font-weight: 600;
               transition: all 0.3s ease;
-              box-shadow: 0 4px 15px rgba(243, 0, 0, 0.3);
+              box-shadow: 0 4px 15px rgba(30, 58, 138, 0.3);
             }
 
             .submit-btn:hover {
               transform: translateY(-2px);
-              box-shadow: 0 6px 20px rgba(243, 0, 0, 0.4);
-              background: linear-gradient(135deg, #c50000 0%, #a00000 100%);
+              box-shadow: 0 6px 20px rgba(30, 58, 138, 0.4);
+              background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%);
             }
 
             .privacy-notice {
@@ -241,17 +241,17 @@ const Careers = () => {
             .upload-link {
               display: inline-block;
               background: #f8f9fa;
-              border: 2px dashed #d32f2f;
+              border: 2px dashed #1e3a8a;
               border-radius: 10px;
               padding: 0.75rem 1.5rem;
-              color: #d32f2f;
+              color: #1e3a8a;
               text-decoration: none;
               transition: all 0.3s ease;
               font-weight: 500;
             }
 
             .upload-link:hover {
-              background: #d32f2f;
+              background: #1e3a8a;
               color: white;
               border-style: solid;
             }
@@ -280,8 +280,8 @@ const Careers = () => {
         <section className="careers-hero">
           <div className="container">
             <h2>Shape the Future of IT Excellence with Us</h2>
-            <p>
-              At JK Global IT Solutions, we're building innovative technology solutions and connecting top talent with exceptional opportunities. Join a team that values growth, collaboration, and meaningful impact in the world of technology.
+            <p style={{color:'black', fontWeight:'bold'}}>
+              At Hrify Digital, we're building innovative technology solutions and connecting top talent with exceptional opportunities. Join a team that values growth, collaboration, and meaningful impact in the world of technology.
             </p>
           </div>
         </section>
@@ -480,12 +480,12 @@ const Careers = () => {
         {/* Call to Action */}
         <section className="text-center py-5">
           <div className="container">
-            <div style={{ 
-              background: 'linear-gradient(135deg, #f30000, #c50000)', 
-              color: 'white', 
-              padding: '3rem 2rem', 
+            <div style={{
+              background: 'linear-gradient(135deg, #1e3a8a, #3b82f6)',
+              color: 'white',
+              padding: '3rem 2rem',
               borderRadius: '16px',
-              boxShadow: '0 8px 30px rgba(243, 0, 0, 0.2)'
+              boxShadow: '0 8px 30px rgba(30, 58, 138, 0.2)'
             }}>
               <h2 className="text-white mb-3" style={{ fontSize: '2.2rem', fontWeight: '700' }}>
                 Questions About Joining Our Team?
@@ -493,11 +493,11 @@ const Careers = () => {
               <p className="mb-4" style={{ fontSize: '1.1rem', maxWidth: '700px', margin: '0 auto 2rem', opacity: '0.95' }}>
                 Reach out to our HR team at careers@jkglobalit.com or call us at +91 123-456-7890. We're here to help!
               </p>
-              <a 
-                href="/contact" 
+              <a
+                href="/contact"
                 style={{
                   background: 'white',
-                  color: '#f30000',
+                  color: '#1e3a8a',
                   padding: '1rem 2.5rem',
                   borderRadius: '50px',
                   fontWeight: '600',

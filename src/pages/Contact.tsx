@@ -121,20 +121,20 @@ const Contact = () => {
         <div className="container my-4 p-4">
           <div className="row">
             <div className="col-lg-6 text-center d-lg-none">
-              <h3 className="text-danger my-2" style={{ fontWeight: 700 }}>
+              <h3 className="text-primary my-2" style={{ fontWeight: 700 }}>
                 Registered Office:
               </h3>
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-map-marker" style={{ fontSize: '30px', color: 'red' }} aria-hidden="true"></i>{' '}
+                <i className="fa fa-map-marker" style={{ fontSize: '30px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }} aria-hidden="true"></i>{' '}
                 NO.7 4th Street, Shanmuga Nagar-2, Near Collector Office, Vengikkal, Tiruvannamalai 606604
               </p>
             </div>
             <div className="col-lg-6 text-start d-none d-lg-block mx-3">
-              <h3 className="text-danger my-2" style={{ fontWeight: 700 }}>
+              <h3 className="text-primary my-2" style={{ fontWeight: 700 }}>
                 Registered Office:
               </h3>
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-map-marker" style={{ fontSize: '30px', color: 'red' }} aria-hidden="true"></i>{' '}
+                <i className="fa fa-map-marker" style={{ fontSize: '30px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }} aria-hidden="true"></i>{' '}
                 NO.7 4th Street, Shanmuga Nagar-2, Near Collector Office, Vengikkal, Tiruvannamalai 606604
               </p>
             </div>
@@ -145,7 +145,7 @@ const Contact = () => {
         <div className="container p-4">
           <div className="row align-items-center text-center">
             <div className="col-lg-5 col-12">
-              <h3 className="text-danger" style={{ color: '#686D76' }}>
+              <h3 className="text-primary" style={{ color: '#686D76' }}>
                 Phone
               </h3>
               <p style={{ color: '#686D76' }}>8438438413</p>
@@ -154,7 +154,7 @@ const Contact = () => {
               <h1 style={{ color: '#686D76' }}>|</h1>
             </div>
             <div className="col-lg-5 col-12">
-              <h3 style={{ color: 'red' }}>Email</h3>
+              <h3 style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Email</h3>
               <p>jkglobalitsolution@gmail.com</p>
             </div>
           </div>

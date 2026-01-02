@@ -43,7 +43,7 @@ const Cybersecurity = () => {
       {/* Content Section */}
       <section className="py-5 bg-white text-center">
         <div className="container py-4">
-          <h2 className="display-5 text-danger fw-bold mb-4">Cybersecurity Services</h2>
+          <h2 className="display-5 text-primary fw-bold mb-4">Cybersecurity Services</h2>
           <p className="lead text-muted mx-auto mb-3" style={{ maxWidth: '800px' }}>
             Protect Your Digital Assets with Advanced Cybersecurity Solutions
           </p>
@@ -62,7 +62,7 @@ const Cybersecurity = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-shield-alt"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Threat Assessment</h4>
+                <h4 className="text-primary fw-semibold mb-3">Threat Assessment</h4>
                 <p className="text-muted">Comprehensive vulnerability assessments and threat analysis to identify potential risks.</p>
               </div>
             </div>
@@ -71,7 +71,7 @@ const Cybersecurity = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-lock"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Access Control</h4>
+                <h4 className="text-primary fw-semibold mb-3">Access Control</h4>
                 <p className="text-muted">Multi-factor authentication and role-based access control implementation.</p>
               </div>
             </div>
@@ -80,7 +80,7 @@ const Cybersecurity = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-eye"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Monitoring & Detection</h4>
+                <h4 className="text-primary fw-semibold mb-3">Monitoring & Detection</h4>
                 <p className="text-muted">24/7 security monitoring and real-time threat detection systems.</p>
               </div>
             </div>
@@ -93,7 +93,7 @@ const Cybersecurity = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-user-shield"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Incident Response</h4>
+                <h4 className="text-primary fw-semibold mb-3">Incident Response</h4>
                 <p className="text-muted">Rapid response plans and procedures for cybersecurity incidents.</p>
               </div>
             </div>
@@ -102,7 +102,7 @@ const Cybersecurity = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-gavel"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Compliance Management</h4>
+                <h4 className="text-primary fw-semibold mb-3">Compliance Management</h4>
                 <p className="text-muted">GDPR, HIPAA, and other regulatory compliance assistance.</p>
               </div>
             </div>
@@ -111,7 +111,7 @@ const Cybersecurity = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-graduation-cap"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Security Training</h4>
+                <h4 className="text-primary fw-semibold mb-3">Security Training</h4>
                 <p className="text-muted">Employee awareness programs and cybersecurity training sessions.</p>
               </div>
             </div>

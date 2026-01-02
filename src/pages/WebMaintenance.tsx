@@ -74,48 +74,48 @@ const WebMaintenance = () => {
             <h1 style={{color: '#594bd2ff',fontSize:'30px', fontFamily: '"Google Sans", sans-serif'}}>WE ENSURE THE AFTERGOING</h1><br></br>
             <ul>
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;   Maintaining the uniqueness of your website.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;   Maintaining the uniqueness of your website.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Ensures seamless navigation and readability across devices, enhancing 
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Ensures seamless navigation and readability across devices, enhancing 
                 user satisfaction.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Updating the core and guaranteeing uptime and security will help you maintain your website and hosting.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Updating the core and guaranteeing uptime and security will help you maintain your website and hosting.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  In the event that a problem arises, offer prompt restoration support.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  In the event that a problem arises, offer prompt restoration support.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; Providing responsive assistance for any issues or inquiries.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Providing responsive assistance for any issues or inquiries.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}> 
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Improving your site's performance and user experience over time.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Improving your site's performance and user experience over time.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Keeping your website secure and protected from cyber threats.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Keeping your website secure and protected from cyber threats.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Keeping your website secure and protected from cyber threats.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Keeping your website secure and protected from cyber threats.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp; Timely reminders and information regarding your hosting and domain.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Timely reminders and information regarding your hosting and domain.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Ensuring that your website is responsive and user-friendly.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Ensuring that your website is responsive and user-friendly.</p>
               </li>
 
               <li type="square" style={{color: '#2110bdff', fontSize:'20px'}}>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',color:'red'}}></i> &nbsp;  Assistance with mail servers, analytics, and hosting servers.</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize:'20px',background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp;  Assistance with mail servers, analytics, and hosting servers.</p>
               </li>
             </ul>
           

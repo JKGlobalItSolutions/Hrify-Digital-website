@@ -65,15 +65,15 @@ const CloudNativeSolutions = () => {
           <p style={{ color: '#686D76', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }}>Experience the benefits of an 'Intelligent Cloud' with our flexible pay-as-you-go model and a broad range of cloud services to meet your project or managed service needs. We help build smart multi-cloud strategies to optimize business costs and operations, ensuring a secure and centralized cloud environment.</p>
           <p style={{ color: '#686D76', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }}>Easily migrate your existing software to our intelligent cloud platform, and modernize your workplace with seamless, cost-effective transitions—guided every step of the way by JK Global IT Solutions and Crayon.</p>
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}>Infra iQ – A centralized platform to monitor, analyze, and manage all your infrastructure environments efficiently.</p>
           </div>
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}>Cloud iQ – A one-stop comprehensive self-service portal enabling you to manage Amazon Web Services and Microsoft Cloud Suite of Technology products.</p>
           </div>
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}>Cloud Easy – A huge cloud portfolio to manage project-specific or managed cloud services.</p>
           </div>
         </div>

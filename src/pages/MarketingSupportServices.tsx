@@ -137,32 +137,32 @@ const MarketingSupportServices = () => {
           <div className="row h-100 justify-content-center align-items-center">
             <div className="col-12 col-lg-3 d-flex flex-column justify-content-center m-4">
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Business uninterruptedness
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Business uninterruptedness
               </p>
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Knowledge of the market
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Knowledge of the market
               </p>
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Increased Revenue and Turnover
-              </p>
-            </div>
-            <div className="col-12 col-lg-3 d-flex flex-column justify-content-center m-4">
-              <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Sales forecasting
-              </p>
-              <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; steady pipeline
-              </p>
-              <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Cross selling opportunities
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Increased Revenue and Turnover
               </p>
             </div>
             <div className="col-12 col-lg-3 d-flex flex-column justify-content-center m-4">
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Customer Engagement
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Sales forecasting
               </p>
               <p style={{ color: '#686D76' }}>
-                <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Business Growth
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; steady pipeline
+              </p>
+              <p style={{ color: '#686D76' }}>
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Cross selling opportunities
+              </p>
+            </div>
+            <div className="col-12 col-lg-3 d-flex flex-column justify-content-center m-4">
+              <p style={{ color: '#686D76' }}>
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Customer Engagement
+              </p>
+              <p style={{ color: '#686D76' }}>
+                <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Business Growth
               </p>
               <p>&nbsp;</p>
             </div>
@@ -187,30 +187,30 @@ const MarketingSupportServices = () => {
           </div>
           <div className="col-12 col-lg-3 d-flex flex-column justify-content m-4">
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; campaigns for digital marketing
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; campaigns for digital marketing
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; email marketing
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; email marketing
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Google ad words
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Google ad words
             </p>
           </div>
           <div className="col-12 col-lg-3 d-flex flex-column justify-content-center m-4">
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Advertisements on Portals
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Advertisements on Portals
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Website search engine optimization
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Website search engine optimization
             </p>
             <div className="d-flex">
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i>
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i>
               <p style={{ color: '#686D76' }}> &nbsp; Social media marketing and promotions</p>
             </div>
           </div>
           <div className="col-12 col-lg-3 d-flex flex-column justify-content-center m-4">
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; SMS marketing
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; SMS marketing
             </p>
           </div>
         </div>
@@ -221,39 +221,39 @@ const MarketingSupportServices = () => {
           <div className="col-12 col-md-6 mb-4 mb-md-0">
             <h3 className="text-muted">Our System of Values:</h3>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; We don't sell leads to other people twice.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; We don't sell leads to other people twice.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Our sole method of generating leads is pull marketing.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Our sole method of generating leads is pull marketing.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; We only use safe techniques to provide high-quality leads.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; We only use safe techniques to provide high-quality leads.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; We abide by all GDPR regulations.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; We abide by all GDPR regulations.
             </p>
             <br />
             <h3 className="text-muted">Benefits of Services:</h3>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Authentic outcomes in full.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Authentic outcomes in full.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Delivery depending on ROI.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Delivery depending on ROI.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Thorough reporting and updates.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Thorough reporting and updates.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Frequent advice for enhancing business operations.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Frequent advice for enhancing business operations.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Technology-driven strategies.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Technology-driven strategies.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Additional resources and services.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Additional resources and services.
             </p>
             <p style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Advantage of network.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Advantage of network.
             </p>
           </div>
           <div className="col-12 col-md-6 d-flex justify-content-center">

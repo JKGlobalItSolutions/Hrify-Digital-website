@@ -64,33 +64,33 @@ const EmailCampaignManagement = () => {
             <h3>Advantages of choosing our Hosting and Cloud Services:</h3> <br />
             <ul>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Simplified Management: Easily handle email campaigns with streamlined processes.</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Simplified Management: Easily handle email campaigns with streamlined processes.</p>
               </li>
 
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Management of mailing lists</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Management of mailing lists</p>
               </li>
 
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Scheduling of campaign mail</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Scheduling of campaign mail</p>
               </li>
             
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; 99.9% uptime assurance</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; 99.9% uptime assurance</p>
               </li>
 
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; All-inclusive Features: Get strong instruments designed for actual user mailing
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; All-inclusive Features: Get strong instruments designed for actual user mailing
               and list administration.</p>
               </li>
 
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Plans that are adaptable and solely limit the quantity of emails sent, rather than 
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Plans that are adaptable and solely limit the quantity of emails sent, rather than 
               the number of contacts addressed</p>
               </li>
 
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Reliable Support Take advantage of JK Global IT Solutions' proficiency in email 
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Reliable Support Take advantage of JK Global IT Solutions' proficiency in email 
               campaign optimization.</p>
               </li>
 

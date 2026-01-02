@@ -38,7 +38,7 @@ const WebDesign = () => {
       {/* Content Section */}
       <section className="py-5 bg-white text-center">
         <div className="container py-4">
-          <h2 className="display-5 text-danger fw-bold mb-4">Web Design Services</h2>
+          <h2 className="display-5 text-primary fw-bold mb-4">Web Design Services</h2>
           <p className="lead text-muted mx-auto mb-3" style={{ maxWidth: '800px' }}>
             Create Stunning, User-Friendly Websites with Our Expert Web Design Services
           </p>
@@ -57,7 +57,7 @@ const WebDesign = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-palette"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Custom Design</h4>
+                <h4 className="text-primary fw-semibold mb-3">Custom Design</h4>
                 <p className="text-muted">Unique, tailored designs that match your brand vision and audience preferences.</p>
               </div>
             </div>
@@ -66,7 +66,7 @@ const WebDesign = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-mobile-alt"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Responsive Design</h4>
+                <h4 className="text-primary fw-semibold mb-3">Responsive Design</h4>
                 <p className="text-muted">Mobile-first approach ensuring perfect display across all devices and screen sizes.</p>
               </div>
             </div>
@@ -75,7 +75,7 @@ const WebDesign = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-search"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">SEO Optimized</h4>
+                <h4 className="text-primary fw-semibold mb-3">SEO Optimized</h4>
                 <p className="text-muted">Built-in SEO best practices to improve search engine visibility and rankings.</p>
               </div>
             </div>
@@ -88,7 +88,7 @@ const WebDesign = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-rocket"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Fast Loading</h4>
+                <h4 className="text-primary fw-semibold mb-3">Fast Loading</h4>
                 <p className="text-muted">Optimized code and assets for lightning-fast page load times.</p>
               </div>
             </div>
@@ -97,7 +97,7 @@ const WebDesign = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-shield-alt"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Security Focused</h4>
+                <h4 className="text-primary fw-semibold mb-3">Security Focused</h4>
                 <p className="text-muted">Built with security best practices to protect your website and users.</p>
               </div>
             </div>
@@ -106,7 +106,7 @@ const WebDesign = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-headset"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Ongoing Support</h4>
+                <h4 className="text-primary fw-semibold mb-3">Ongoing Support</h4>
                 <p className="text-muted">Continuous maintenance and updates to keep your website current and secure.</p>
               </div>
             </div>

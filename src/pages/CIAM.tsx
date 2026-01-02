@@ -1,5 +1,6 @@
 import React from 'react';
 import './CIAM.css';
+const BannerImage = '/assets/images/newBanner/cy9.png';
 const Rectangle27 = '/assets/images/Rectangle-27.png';
 const Ciam = '/assets/images/about-image.png';
 
@@ -7,31 +8,25 @@ const Ciam = '/assets/images/about-image.png';
 const CIAM = () => {
   return (
     <main>
-      {/* Banner Section */}
-      <div className="banner container-fluid d-flex justify-content-center align-items-center" style={{ height: '600px', backgroundImage: `url(${Rectangle27})`, position: 'relative', backgroundColor: '#eea166ff' }}>
-        <h2 style={{ position: 'absolute', right: '10%', transform: 'translateX(-200%)', color: 'black', textAlign:'justify' }} className="fw-bolder">CIAM</h2>
-        <div style={{ position: 'absolute', right: '20%', top: '50%', transform: 'translateY(-50%)' }}>
-          <img className="img-fluid" src={Ciam} alt="" style={{ height: '380px' }} />
-        </div>
-        <style dangerouslySetInnerHTML={{
-          __html: `
-            h2 {
-              font-size: 50px;
-              color: black;
-            }
-
-            @media only screen and (max-width: 600px) {
-              .banner {
-                height: 400px;
-              }
-
-              h2 {
-                font-size: 30px;
-              }
-            }
-          `
-        }} />
+      {/* Full-width Banner Image */}
+      <div className="banner-full-image">
+        <img src={BannerImage} alt="CIAM Banner" className="banner-img" />
       </div>
+
+      {/* Banner styles */}
+      <style dangerouslySetInnerHTML={{
+        __html: `
+          .banner-full-image {
+            width: 100%;
+            overflow: hidden;
+          }
+
+          .banner-img {
+            width: 100%;
+            display: block;
+          }
+        `
+      }} />
 
       {/* Overview Section */}
       <section className="overview" style={{ backgroundColor: '#f8fafc', padding: '60px 0', textAlign: 'center' }}>

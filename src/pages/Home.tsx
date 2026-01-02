@@ -1,27 +1,21 @@
 import React, { useEffect } from 'react';
 import './Home.css';
-const Banner2 = '/assets/images/Banner/Banner-2.png';
-const Banner3 = '/assets/images/Banner/Banner-3.png';
-const Banner4 = '/assets/images/Banner/Banner-4.png';
-const Banner5 = '/assets/images/Banner/Banner-5.png';
-const Banner7 = '/assets/images/Banner/Banner-7.png';
-const Enterprise = '/assets/images/Banner/Enterprise.jpg';
-const Cybersecurity = '/assets/images/Banner/Cybersecurity.jpg';
-const Blockchain = '/assets/images/Banner/Blockchain.jpg';
-const Managed = '/assets/images/Banner/Managed.jpg';
-const DataAnalytics = '/assets/images/Banner/DataAnalytics.jpg';
+const Banner2 = '/assets/images/newBanner/cy10.png';
+const Banner3 = '/assets/images/newBanner/cy11.png';
+const Banner4 = '/assets/images/newBanner/cy12.png';
+const Banner5 = '/assets/images/newBanner/cy13.png';
+const Banner7 = '/assets/images/newBanner/cy14.png';
+const Enterprise = '/assets/images/newBanner/enterprise.png';
+const Cybersecurity = '/assets/images/newBanner/cy15.png';
+const Blockchain = '/assets/images/newBanner/bl7.png';
+const Managed = '/assets/images/newBanner/ma.ser.png';
+const DataAnalytics = '/assets/images/newBanner/data.an.png';
 const Img32 = '/assets/images/Talent/img3-(2).png';
 const Im7 = '/assets/images/Talent/im7.png';
 const Icon32 = '/assets/images/Talent/icon3-(2).png';
 const Icon42 = '/assets/images/Talent/icon4-(2).png';
 const Icon52 = '/assets/images/Talent/icon5-(2).png';
 const Icon62 = '/assets/images/Talent/icon6-(2).png';
-
-
-
-
-
-
 
 const Home = () => {
   useEffect(() => {
@@ -126,7 +120,7 @@ const Home = () => {
       <div className="container p-4">
         <div className="row align-items-center">
           <div className="col-12 col-lg-8">
-            <h3 className="fw-bolder" style={{ color: '#D21312' }}>Software Development</h3>
+            <h3 className="fw-bolder" style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Software Development</h3>
             <p style={{ fontFamily: 'urbanist' }}>
               Our Software Development Services turn your ideas into innovative, functional, and scalable solutions tailored to your business needs. We provide end-to-end services, including requirements analysis, design, development, testing, and deployment, ensuring a seamless process. Using the latest technologies and agile methodologies, we deliver secure, efficient, and user-friendly software. Whether you need custom applications, system integration, or software enhancements, our solutions are designed to streamline operations, boost productivity, and drive business success.
             </p>
@@ -177,23 +171,23 @@ const Home = () => {
 
       {/* Why Choose Us */}
       <div className="container p-lg-5 p-3">
-        <h3 className="text-center fw-bolder" style={{ color: '#D21312' }}>Why Choose Us?</h3>
+        <h3 className="text-center fw-bolder" style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Why Choose Us?</h3>
         <div className="row align-items-center">
           <div className="col-12 col-lg-8">
             <p className="fw-bolder" style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Commitment to core values and mission empowers clients with effective solutions.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Commitment to core values and mission empowers clients with effective solutions.
             </p>
             <p className="fw-bolder" style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Maintaining client trust and delivering exceptional results consistently.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Maintaining client trust and delivering exceptional results consistently.
             </p>
             <p className="fw-bolder" style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Skilled experts and established processes ensure efficient business support.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Skilled experts and established processes ensure efficient business support.
             </p>
             <p className="fw-bolder" style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Prioritizing clients' technological investments for optimal outcomes.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Prioritizing clients' technological investments for optimal outcomes.
             </p>
             <p className="fw-bolder" style={{ color: '#686D76' }}>
-              <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Leading software development company in Tiruvannamalai, dedicated to client satisfaction.
+              <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Leading software development company in Tiruvannamalai, dedicated to client satisfaction.
             </p>
           </div>
           <div className="col-12 col-lg-4 text-center">

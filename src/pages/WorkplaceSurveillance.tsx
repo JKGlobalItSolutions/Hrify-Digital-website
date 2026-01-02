@@ -82,15 +82,15 @@ const WorkplaceSurveillance = () => {
             <p style={{ color: '#686D76', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }}>
               By partnering with JK Global IT Solutions, you're investing in a secure, well-managed, and efficient workplace where safety and productivity go hand in hand. Our goal is to empower your business with the technology needed to stay ahead of security challenges, enabling you to focus on growth and success with peace of mind.</p>
             <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-              <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+              <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
               <p style={{ color: '#686D76' }}>Enhanced Security</p>
             </div>
             <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-              <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+              <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
               <p style={{ color: '#686D76' }}>Real-Time Monitoring</p>
             </div>
             <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-              <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+              <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
               <p style={{ color: '#686D76' }}>Improved Compliance and Safety</p>
             </div>
           </div>
@@ -105,22 +105,22 @@ const WorkplaceSurveillance = () => {
 
       <div style={{ backgroundColor: '#F1F1F1' }} className="container-fluid p-2 p-lg-5 py-5">
         <div className="container">
-          <h3 style={{ color: '#D22312' }} className=" fw-bolder text-center">Comprehensive Surveillance Solutions</h3> <br/>
+          <h3 style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }} className=" fw-bolder text-center">Comprehensive Surveillance Solutions</h3> <br/>
 
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}><span style={{ fontWeight: '700', color: 'black' }}>CCTV Systems:</span> High-definition cameras with night vision, motion detection, and remote access features.</p>
           </div>
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}><span style={{ color: 'black', fontWeight: '700' }}>Access Control:</span> Secure entry systems including biometric scanners, keycards, and smart locks.</p>
           </div>
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}><span style={{ fontWeight: '700', color: 'black' }}>Biometric Surveillance:</span> Facial recognition, fingerprint scanning, and other biometric solutions for high security.</p>
           </div>
           <div style={{ gap: '5px', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }} className="d-flex">
-            <span style={{ fontSize: '20px', color: 'red' }}>○</span>
+            <span style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>○</span>
             <p style={{ color: '#686D76' }}><span style={{ fontWeight: '700', color: 'black' }}>Fire Alarm and Safety Systems:</span> Integration of fire alarms and emergency response systems for comprehensive safety.</p>
           </div>
         </div>
@@ -130,7 +130,7 @@ const WorkplaceSurveillance = () => {
 
         <div className="row d-flex justify-content-center">
           <div className="col-12 col-lg-8 col-md-8 text-center d-flex justify-content-center  ">
-            <h4 style={{ color: '#F1F1F1', border: '1px solid #D22312', borderRadius: '100px', backgroundColor: '#D22312' }} className="text-center ninety my-3 py-4 px-3"><b>"Why Choose Our Surveillance Solutions?"</b> </h4>
+            <h4 style={{ color: '#F1F1F1', border: '1px solid #D22312', borderRadius: '100px', backgroundColor: 'blue' }} className="text-center ninety my-3 py-4 px-3"><b>"Why Choose Our Surveillance Solutions?"</b> </h4>
           </div>
         </div> <br/>
 
@@ -138,28 +138,28 @@ const WorkplaceSurveillance = () => {
           <div className="col-12 col-lg-3 image-container my-4 my-lg-0">
             <img className="img-fluid" src={WorkplaceGlobe1} alt="Workplace Globe" />
             <div className="description">
-              <h3 className="fw-bolder" style={{ color: '#D22312' }}>24/7 Monitoring</h3>
+              <h3 className="fw-bolder" style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>24/7 Monitoring</h3>
               <p style={{ color: 'black' }} className="fw-bolder">Continuous surveillance to ensure round-the-clock security.</p>
             </div>
           </div>
           <div className="col-12 col-lg-3 image-container my-4 my-lg-0">
             <img className="img-fluid" src={WorkplaceGlobe1} alt="Workplace Globe" />
             <div className="description">
-              <h3 className="fw-bolder" style={{ color: '#D22312' }}>Scalable Solutions</h3>
+              <h3 className="fw-bolder" style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Scalable Solutions</h3>
               <p style={{ color: 'black' }} className="fw-bolder">Tailored for businesses of all sizes, from small offices to large enterprises.</p>
             </div>
           </div>
           <div className="col-12 col-lg-3 image-container my-4 my-lg-0">
             <img className="img-fluid" src={WorkplaceGlobe1} alt="Workplace Globe" />
             <div className="description">
-              <h3 className="fw-bolder" style={{ color: '#D22312' }}>Easy Integration</h3>
+              <h3 className="fw-bolder" style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Easy Integration</h3>
               <p style={{ color: 'black' }} className="fw-bolder">Compatible with existing IT infrastructure and scalable to future needs.</p>
             </div>
           </div>
           <div className="col-12 col-lg-3 image-container my-4 my-lg-0">
             <img src={WorkplaceGlobe1} alt="Workplace Globe" />
             <div className="description">
-              <h3 className="fw-bolder" style={{ color: '#D22312' }}>Remote Access</h3>
+              <h3 className="fw-bolder" style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Remote Access</h3>
               <p style={{ color: 'black' }} className="fw-bolder">Monitor your workplace from anywhere via mobile or web applications.</p>
             </div>
           </div> <br/>

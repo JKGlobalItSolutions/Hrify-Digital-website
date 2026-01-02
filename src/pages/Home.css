@@ -1,3 +1,5 @@
+
+
 .slider {
   position: relative;
   width: 100%;
@@ -41,7 +43,7 @@
 
 .services-container {
   padding: 60px 20px;
-  background: linear-gradient(135deg, #E31E5D 0%, #6B2C91 100%);
+  background: linear-gradient(135deg, #0f172a 0%, #1e40af 100%);
   min-height: 100vh;
 }
 

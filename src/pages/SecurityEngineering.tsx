@@ -1,39 +1,25 @@
 ﻿import React from 'react';
+const BannerImage = '/assets/images/newBanner/cy10.png';
 
 const SecurityEngineering = () => {
   return (
     <main>
-      {/* Banner section - UNCHANGED */}
-      <div className="banner container-fluid d-flex align-items-center justify-content-center" style={{backgroundColor:'#e2e67aff'}}>
-        <div className="row h-100 w-100">
-          <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center text-light">
-            <h2 className="fw-bolder text-center">Security-first engineering for lasting trust</h2>
-          </div>
-          <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-            <img className="img-fluid" src={Securityenginerr} alt="Security Engineering" />
-          </div>
-        </div>
+      {/* Full-width Banner Image */}
+      <div className="banner-full-image">
+        <img src={BannerImage} alt="Security Engineering Banner" className="banner-img" />
       </div>
 
+      {/* Banner styles */}
       <style dangerouslySetInnerHTML={{
         __html: `
-          .banner {
-            height: 600px;
+          .banner-full-image {
+            width: 100%;
+            overflow: hidden;
           }
 
-          .banner h2 {
-            font-size: 50px;
-            color: black;
-          }
-
-          @media only screen and (max-width: 600px) {
-            .banner {
-              height: 400px;
-            }
-
-            .banner h2 {
-              font-size: 30px;
-            }
+          .banner-img {
+            width: 100%;
+            display: block;
           }
         `
       }} />

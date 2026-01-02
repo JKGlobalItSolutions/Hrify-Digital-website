@@ -135,19 +135,19 @@ const WebsiteAuditingConsulting = () => {
         <h3 className="text-muted">For what reason are marketing support services needed?</h3>
         <div className="col-12 col-md-6 mb-4 mb-md-0">
           <p style={{ color: '#686D76' }}>
-            <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Make the user experience on your website better
+            <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Make the user experience on your website better
           </p>
           <p style={{ color: '#686D76' }}>
-            <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Increase the number of leads and sales.
+            <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Increase the number of leads and sales.
           </p>
           <p style={{ color: '#686D76' }}>
-            <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Boost traffic to websites
+            <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Boost traffic to websites
           </p>
           <p style={{ color: '#686D76' }}>
-            <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Make your website conversion-friendly.
+            <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Make your website conversion-friendly.
           </p>
           <p style={{ color: '#686D76' }}>
-            <i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Boost the visibility of your website in search engines
+            <i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Boost the visibility of your website in search engines
           </p>
           <br />
         </div>

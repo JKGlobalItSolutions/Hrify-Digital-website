@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-const HrifyLogo = '/assets/images/hrify-logo.png';
+const HrifyLogo = '/assets/images/Hrify-white-bg.jpg';
 const Fb = '/assets/images/footer-icon/fb.png';
 const YoutubeIcon = '/assets/images/youtube-icon.png';
 const X = '/assets/images/footer-icon/x.png';
@@ -22,7 +22,7 @@ const Footer = () => {
 
   return (
     <>
-      <footer style={{ backgroundColor: '#F1F1F1' }} className="container-fluid p-5 fw-normal">
+      <footer style={{ backgroundColor: 'black' }} className="container-fluid p-5 fw-normal">
         <div className="row">
           <div className="col-12 col-lg-8 col-md-8">
             <div className="row">
@@ -65,9 +65,11 @@ const Footer = () => {
             </div>
             <div className="pop mb-3">
               <button
-                className="text-dark p-3 px-4 rounded"
-                style={{ backgroundColor: '#d21312', border: 'none', cursor: 'pointer', fontSize: '12px' }}
+                className="text-white p-3 px-4 rounded"
+                style={{ background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', border: 'none', cursor: 'pointer', fontSize: '12px', fontWeight: '600', boxShadow: '0 4px 15px rgba(30, 58, 138, 0.3)', transition: 'all 0.3s ease' }}
                 onClick={handleDownloadClick}
+                onMouseOver={(e) => (e.target as HTMLButtonElement).style.transform = 'translateY(-2px)'}
+                onMouseOut={(e) => (e.target as HTMLButtonElement).style.transform = 'translateY(0)'}
               >
                 Download Brochure
               </button>
@@ -79,14 +81,12 @@ const Footer = () => {
               <a href="tel:+918438438413">+91 8438438413</a>
             </p>
             <div className="d-flex justify-content-center align-items-center mt-3">
-              <a href="https://www.facebook.com/profile.php?id=61559888076422"><img className="p-1" src={Fb} alt="Facebook" /></a>
-              <a href="http://www.youtube.com/@Jkglobalitsolutions_official"><img className="p-1" src={YoutubeIcon} alt="YouTube" /></a>
-              <a href="https://x.com/Jkglobalitsol"><img className="p-1" src={X} alt="X" /></a>
-              <img className="p-1" src={Linkdin} alt="LinkedIn" />
-              <a href="https://www.instagram.com/jkglobalitsolutions_officials/"><img className="p-1" src={Insta} alt="Instagram" /></a>
-              <a href={`https://api.whatsapp.com/send?phone=${encodeURIComponent('+91 8438438413')}`}>
-                <img className="p-1" src={WhatsappSymbolSvg} alt="WhatsApp" />
-              </a>
+              <a href="https://www.facebook.com/profile.php?id=61559888076422" style={{ color: '#686D76', margin: '0 10px', fontSize: '20px', textDecoration: 'none' }}>f</a>
+              <a href="http://www.youtube.com/@Jkglobalitsolutions_official" style={{ color: '#686D76', margin: '0 10px', fontSize: '20px', textDecoration: 'none' }}>▶</a>
+              <a href="https://x.com/Jkglobalitsol" style={{ color: '#686D76', margin: '0 10px', fontSize: '20px', textDecoration: 'none' }}>𝕏</a>
+              <a href="https://www.linkedin.com/company/jk-global-it-solutions/" style={{ color: '#686D76', margin: '0 10px', fontSize: '20px', textDecoration: 'none' }}>in</a>
+              <a href="https://www.instagram.com/jkglobalitsolutions_officials/" style={{ color: '#686D76', margin: '0 10px', fontSize: '20px', textDecoration: 'none' }}>📷</a>
+              <a href={`https://api.whatsapp.com/send?phone=${encodeURIComponent('+91 8438438413')}`} style={{ color: '#686D76', margin: '0 10px', fontSize: '20px', textDecoration: 'none' }}>💬</a>
             </div>
           </div>
         </div>

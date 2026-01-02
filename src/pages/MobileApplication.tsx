@@ -88,7 +88,7 @@ const MobileApplication = () => {
         <p style={{ color: "#686D76" }}>
           <i
             className="fa fa-circle-o"
-            style={{ fontSize: "20px", color: "red" }}
+            style={{ fontSize: "20px", background: "linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}
           ></i>{""}
           Planning and Analysis This first phase entails gathering
           requirements, defining the scope of the project, performing market
@@ -99,7 +99,7 @@ const MobileApplication = () => {
         <p style={{ color: "#686D76"  }}>
           <i
             className="fa fa-circle-o"
-            style={{ fontSize: "20px", color: "red" }}
+            style={{ fontSize: "20px", background: "linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}
           ></i>{""}
           Design & Development When the planning is finished, the design
           process begins. This involves UI/UX design, prototyping and developing
@@ -110,7 +110,7 @@ const MobileApplication = () => {
         <p style={{ color: "#686D76" }}>
           <i
             className="fa fa-circle-o"
-            style={{ fontSize: "20px", color: "red" }}
+            style={{ fontSize: "20px", background: "linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}
           ></i>{""}
           Testing and deployment. In this final phase, comprehensive
           testing is carried out to detect and resolve any faults or issues.

@@ -1,4 +1,5 @@
 import React from 'react';
+const BannerImage = '/assets/images/newBanner/cy13.png';
 const Govtrisk11 = '/assets/images/govtrisk1-(1).jpg';
 const Govtrisk12 = '/assets/images/govtrisk1-(2).jpg';
 const Govtrisk13 = '/assets/images/govtrisk1-(3).jpg';
@@ -8,58 +9,22 @@ const Govtrisk = '/assets/images/govtrisk.png';
 const GovernanceRiskManagementCompliance = () => {
   return (
     <main>
-      {/* Updated Banner Section - Properly Aligned & Responsive */}
-      <div className="banner container-fluid d-flex align-items-center justify-content-center" style={{ backgroundColor: '#f8d7da' }}>
-        <div className="row w-100 h-100 gx-0">
-          <div className="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-center text-center px-4 py-5">
-            <h2 className="fw-bolder mb-0" style={{ fontSize: '4rem', color: '#000', lineHeight: '1.2' }}>
-              Risk and Compliance<br />Simplified
-            </h2>
-          </div>
-          <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center p-4">
-            <img
-              className="img-fluid"
-              src={Govtrisk}
-              alt="Governance, Risk Management & Compliance"
-              style={{ maxHeight: '520px', objectFit: 'contain' }}
-            />
-          </div>
-        </div>
+      {/* Full-width Banner Image */}
+      <div className="banner-full-image">
+        <img src={BannerImage} alt="Governance Risk Management Compliance Banner" className="banner-img" />
       </div>
 
-      {/* Banner-specific responsive styles */}
+      {/* Banner styles */}
       <style dangerouslySetInnerHTML={{
         __html: `
-          .banner {
-            min-height: 600px;
-            background-color: #f8d7da;
+          .banner-full-image {
+            width: 100%;
+            overflow: hidden;
           }
 
-          @media (max-width: 992px) {
-            .banner h2 {
-              font-size: 3.2rem !important;
-            }
-          }
-
-          @media (max-width: 768px) {
-            .banner {
-              min-height: 500px;
-            }
-            .banner h2 {
-              font-size: 2.8rem !important;
-            }
-          }
-
-          @media (max-width: 576px) {
-            .banner {
-              min-height: 450px;
-            }
-            .banner h2 {
-              font-size: 2.3rem !important;
-            }
-            .banner img {
-              max-height: 300px !important;
-            }
+          .banner-img {
+            width: 100%;
+            display: block;
           }
         `
       }} />

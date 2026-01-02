@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import './Header.css';
-const HrifyLogo = '/assets/images/hrify-logo.png';
+const HrifyLogo = '/assets/images/Hrify-dark-bg.png';
 
 // Modular menu data to avoid duplication (DRY)
 const menuData = {
@@ -37,7 +37,7 @@ const menuData = {
       ],
     },
     {
-      category: 'Data & Analytics',
+      category: 'AI & ML',
       items: [
         { to: '/datascience', label: 'Data Science' },
         { to: '/analytics', label: 'Analytics' },
@@ -233,7 +233,7 @@ const Header = () => {
                     </ul>
                   </li>
                   <li className="dropdown-submenu">
-                    <a className="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Data & Analytics</a>
+                    <a className="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">AI & ML</a>
                     <ul className="dropdown-menu">
                       <li><Link className={`dropdown-item ${isActive('/internetofthings')}`} to="/internetofthings" onClick={closeMobileMenu}>internet of things(iot)</Link></li>
                       <li><Link className={`dropdown-item ${isActive('/ai_nlp')}`} to="/ai_nlp" onClick={closeMobileMenu}>Ai & Nlp</Link></li>

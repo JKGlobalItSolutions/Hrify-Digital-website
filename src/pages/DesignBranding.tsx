@@ -55,25 +55,25 @@ const DesignBranding = () => {
             <h3>Services Included in Our Design Solutions:</h3> <br/>
             <ul>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Design of a Logo Make unique, enduring logos for your company.</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Design of a Logo Make unique, enduring logos for your company.</p>
               </li>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Solutions for Branding Create thorough branding materials and tactics.</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Solutions for Branding Create thorough branding materials and tactics.</p>
               </li>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Graphic Design Create a range of marketing collateral and business accessories.</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Graphic Design Create a range of marketing collateral and business accessories.</p>
               </li>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Proficiency in Software For detailed design work, use Adobe Illustrator and Photoshop.</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Proficiency in Software For detailed design work, use Adobe Illustrator and Photoshop.</p>
               </li>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp; Banner Image Designs & Visiting Card Custom Designs</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp; Banner Image Designs & Visiting Card Custom Designs</p>
               </li>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Print Material and Label Designs</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Print Material and Label Designs</p>
               </li>
               <li>
-                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', color: 'red' }}></i> &nbsp;Social Media Promotion Image Designs</p>
+                <p style={{ color: '#686D76' }}><i className="fa fa-circle-o" style={{ fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}></i> &nbsp;Social Media Promotion Image Designs</p>
               </li>
             </ul>
           </div>

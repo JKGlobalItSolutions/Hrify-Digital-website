@@ -55,29 +55,29 @@ const MatrimonyWebSolutions = () => {
       </div>
       <div className="container p-4" style={{textAlign:'justify'}}>
         <h3 style={{color: '#686D76'}}>Standard Features Our Matrimony Solutions Offer</h3>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Thorough user
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Thorough user
           registration that collects all personal information</p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Beautiful and
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Beautiful and
           distinctive website design created by our gifted designers</p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Completely
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Completely
           individualized for your hobbies and community </p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Easy and
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Easy and
           efficient matchmaking services</p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Search for
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Search for
           profiles in full according to community, age, religion, location, and a host of other factors. </p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; extensive
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; extensive
           administrative panel for controlling every aspect of the website </p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Outstanding
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Outstanding
           returns on investment, as demonstrated by our current clientele</p> <br />
         <h3 style={{color: '#686D76'}}>Matrimony websites are accessible to who?</h3>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Matrimony
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Matrimony
           consultants operating independently can elevate their business with our feature-rich solutions designed to
           efficiently
           manage large member bases.</p>
-        <p style={{color: '#686D76',textAlign:'justify'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; Prospective
+        <p style={{color: '#686D76',textAlign:'justify'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; Prospective
           investors looking to launch a matrimony business can kickstart their venture with our comprehensive solutions,
           equipped with everything necessary to initiate and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; successfully operate a matrimony business.</p>
-        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> &nbsp; &nbsp;Individuals who
+        <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> &nbsp; &nbsp;Individuals who
           currently operate a matrimony website with a substantial profile base and aim to expand their
           business to the next level. </p>
       </div>

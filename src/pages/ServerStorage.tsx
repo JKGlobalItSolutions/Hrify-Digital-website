@@ -55,23 +55,23 @@ const ServerStorage = () => {
             
             <ul style={{ listStyle: 'none', padding: 0, margin: 0, fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }}>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Latest Servers and Storage Devices</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Custom-Built Solutions</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Regular Upgrades</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Scalability and Operational Efficiency</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Focus on Core Business</span>
               </li>
             </ul>

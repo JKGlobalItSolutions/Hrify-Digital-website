@@ -51,31 +51,31 @@ const NetworkSecurity = () => {
             <p style={{ color: '#686D76', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif', textAlign:'justify' }}>At JK Global IT Solutions, we understand that securing a network is essential for enhancing performance and ensuring continuous access to information by safeguarding business assets from potential threats. As businesses rapidly transition to the digital world, they face new risks, vulnerabilities, and attacks. By strengthening your cyber resilience, we help keep your business running smoothly and securely. Protecting your software systems is critical, and securing your IT infrastructure with the right firewall is equally important. Computer networks are increasingly vulnerable to ransomware, Denial-of-Service (DoS) attacks, and destructive viruses that can compromise valuable data across your network. Let us help you fortify your defenses and protect your business.</p>
             <ul style={{ listStyle: 'none', padding: 0, margin: 0, fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }}>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Maintain network security</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Cyber Resilience</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Critical IT Infrastructure Protection</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Threat Mitigation</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Safeguarding Valuable Data</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Avoids unauthorized entry</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Effectively stop data leakages</span>
               </li>
             </ul>

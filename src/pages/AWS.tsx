@@ -42,7 +42,7 @@ const AWS = () => {
       {/* Content Section */}
       <section className="py-5 bg-white text-center">
         <div className="container py-4">
-          <h2 className="display-5 text-danger fw-bold mb-4">AWS Services Implementation</h2>
+          <h2 className="display-5 text-primary fw-bold mb-4">AWS Services Implementation</h2>
           <p className="lead text-muted mx-auto mb-3" style={{ maxWidth: '800px' }}>
             Leverage the Power of Amazon Web Services for Scalable Cloud Solutions
           </p>
@@ -61,7 +61,7 @@ const AWS = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-cloud"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Cloud Migration</h4>
+                <h4 className="text-primary fw-semibold mb-3">Cloud Migration</h4>
                 <p className="text-muted">Seamless migration of your applications and data to AWS cloud infrastructure.</p>
               </div>
             </div>
@@ -70,7 +70,7 @@ const AWS = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-server"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Infrastructure Setup</h4>
+                <h4 className="text-primary fw-semibold mb-3">Infrastructure Setup</h4>
                 <p className="text-muted">Design and implementation of scalable AWS infrastructure components.</p>
               </div>
             </div>
@@ -79,7 +79,7 @@ const AWS = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-shield-alt"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Security Implementation</h4>
+                <h4 className="text-primary fw-semibold mb-3">Security Implementation</h4>
                 <p className="text-muted">AWS security best practices and compliance framework implementation.</p>
               </div>
             </div>
@@ -92,7 +92,7 @@ const AWS = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-chart-line"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">Cost Optimization</h4>
+                <h4 className="text-primary fw-semibold mb-3">Cost Optimization</h4>
                 <p className="text-muted">AWS cost management and optimization strategies for maximum ROI.</p>
               </div>
             </div>
@@ -101,7 +101,7 @@ const AWS = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-tools"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">DevOps Integration</h4>
+                <h4 className="text-primary fw-semibold mb-3">DevOps Integration</h4>
                 <p className="text-muted">CI/CD pipeline setup and automation using AWS developer tools.</p>
               </div>
             </div>
@@ -110,7 +110,7 @@ const AWS = () => {
                 <div className="icon-wrapper">
                   <i className="fas fa-headset"></i>
                 </div>
-                <h4 className="text-danger fw-semibold mb-3">24/7 Monitoring</h4>
+                <h4 className="text-primary fw-semibold mb-3">24/7 Monitoring</h4>
                 <p className="text-muted">Continuous monitoring and support for your AWS environment.</p>
               </div>
             </div>

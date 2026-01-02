@@ -67,35 +67,35 @@ const SystemIntegrationMaintenance = () => {
             <p style={{ color: '#686D76', fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif', textAlign: 'justify' }}> At JK Global IT Solutions we specialize in seamless systems integration and reliable maintenance services. Our team ensures that your IT infrastructure operates efficiently by integrating various systems into a cohesive and optimized environment. We provide ongoing support and maintenance to keep your systems running smoothly, minimizing downtime and enhancing overall performance. With our expertise, your technology infrastructure will be robust, scalable, and aligned with your business needs.</p>
             <ul style={{ listStyle: 'none', padding: 0, margin: 0, fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen, Ubuntu, Cantarell, \'Open Sans\', \'Helvetica Neue\', sans-serif' }}>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Seamless Integration</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Optimized Performance</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Scalability</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Reliability</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Proactive Maintenance</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Customization</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Cost efficiency</span>
               </li>
               <li style={{ display: 'flex', alignItems: 'flex-start', gap: '8px', marginBottom: '0.5rem' }}>
-                <span style={{ fontSize: '18px', color: 'red', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
+                <span style={{ fontSize: '18px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginTop: '2px', flexShrink: 0, lineHeight: 1 }}>○</span>
                 <span style={{ color: '#686D76' }}>Expert Support</span>
               </li>
             </ul>

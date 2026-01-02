@@ -52,28 +52,28 @@ const DomainsHostingCloud = () => {
             <h3>Advantages of choosing our Hosting and Cloud Services:</h3> <br />
             <ul>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i>Customized Remedies tailored cloud and hosting solutions to meet your unique
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i>Customized Remedies tailored cloud and hosting solutions to meet your unique
               requirements and financial constraints.</p>
               </li>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i>Constant monitoring of websites</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i>Constant monitoring of websites</p>
               </li>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i>Our Server Support Team delivers efficient management and
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i>Our Server Support Team delivers efficient management and
                 troubleshooting assistance.</p>
               </li>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i> 99.9% uptime assurance</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i> 99.9% uptime assurance</p>
               </li>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i>Enhance operational effectiveness and flexibility with our customized hosting
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i>Enhance operational effectiveness and flexibility with our customized hosting
                 and cloud services.</p>
               </li>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i>committed backup upkeep</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i>committed backup upkeep</p>
               </li>
               <li>
-                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', color: 'red'}}></i>specific server assistance</p>
+                <p style={{color: '#686D76'}}><i className="fa fa-circle-o" style={{fontSize: '20px', background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}></i>specific server assistance</p>
               </li>
             </ul>
           </div>

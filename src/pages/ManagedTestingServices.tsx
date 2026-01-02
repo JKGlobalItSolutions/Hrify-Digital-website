@@ -1,5 +1,9 @@
 import React from 'react';
-const ManagedTestingServices1 = '/assets/images/Banner/newbanimg/Managed-Testing-Services-1.png';
+const ManagedTestingServices1 = '/assets/images/newBanner/ma.ser.png';
+const Performance = '/assets/images/placeholder.png';
+const Ci = '/assets/images/placeholder.png';
+const Softwarvald = '/assets/images/placeholder.png';
+const Softwareqa = '/assets/images/placeholder.png';
 
 
 
@@ -70,7 +74,9 @@ const ManagedTestingServices = () => {
             .main-title {
               font-size: 2.8rem;
               font-weight: 700;
-              color: #d32f2f;
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
               margin-bottom: 1.5rem;
             }
 
@@ -85,7 +91,7 @@ const ManagedTestingServices = () => {
             .cta-button {
               display: block;
               width: fit-content;
-              background: #f30000;
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
               color: white;
               padding: 0.9rem 2.5rem;
               border-radius: 9999px;
@@ -97,10 +103,10 @@ const ManagedTestingServices = () => {
             }
 
             .cta-button:hover {
-              background: #c50000;
+              background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%);
               color: white;
               transform: translateY(-2px);
-              box-shadow: 0 4px 12px rgba(243, 0, 0, 0.3);
+              box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
             }
 
             .section {
@@ -111,7 +117,9 @@ const ManagedTestingServices = () => {
               text-align: center;
               font-size: 2.4rem;
               font-weight: 700;
-              color: #d32f2f;
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
               margin-bottom: 3rem;
             }
 
@@ -135,7 +143,9 @@ const ManagedTestingServices = () => {
             .feature-card h4 {
               font-size: 1.4rem;
               font-weight: 600;
-              color: #d32f2f;
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
               margin-bottom: 1rem;
             }
 
@@ -148,7 +158,7 @@ const ManagedTestingServices = () => {
             .icon-wrapper {
               width: 80px;
               height: 80px;
-              background: #f30000;
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
               border-radius: 50%;
               display: flex;
               align-items: center;
@@ -197,7 +207,9 @@ const ManagedTestingServices = () => {
             .grid-card-title {
               font-size: 1rem;
               font-weight: 600;
-              color: #d32f2f;
+              background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
               margin-bottom: 0.5rem;
             }
 
@@ -331,7 +343,7 @@ const ManagedTestingServices = () => {
         </section>
 
         {/* Support Features Section */}
-        <section className="section" style={{ backgroundColor: '#fff5f5', borderRadius: '16px', padding: '4rem 2rem' }}>
+        <section className="section" style={{ background: 'linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)', borderRadius: '16px', padding: '4rem 2rem' }}>
           <div className="container">
             <h2 className="section-title">Support Features</h2>
             <div className="row g-4">
@@ -438,12 +450,12 @@ const ManagedTestingServices = () => {
         {/* Final CTA Section */}
         <section className="section">
           <div className="container text-center">
-            <div style={{ 
-              background: 'linear-gradient(135deg, #f30000, #c50000)', 
-              color: 'white', 
-              padding: '4rem 2rem', 
+            <div style={{
+              background: 'linear-gradient(135deg, #1e3a8a, #3b82f6)',
+              color: 'white',
+              padding: '4rem 2rem',
               borderRadius: '16px',
-              boxShadow: '0 8px 30px rgba(243, 0, 0, 0.2)'
+              boxShadow: '0 8px 30px rgba(30, 58, 138, 0.2)'
             }}>
               <h2 className="text-white mb-4" style={{ fontSize: '2.5rem', fontWeight: '700' }}>
                 Quality Engineering Case Studies
@@ -453,7 +465,7 @@ const ManagedTestingServices = () => {
               </p>
               <a href="#" style={{
                 background: 'white',
-                color: '#f30000',
+                color: '#1e3a8a',
                 padding: '1rem 2.5rem',
                 borderRadius: '9999px',
                 fontWeight: '600',
@@ -462,8 +474,8 @@ const ManagedTestingServices = () => {
                 display: 'inline-block',
                 transition: 'all 0.3s ease'
               }}
-              onMouseOver={(e) => e.target.style.background = '#f0f0f0'}
-              onMouseOut={(e) => e.target.style.background = 'white'}
+              onMouseOver={(e) => (e.target as HTMLAnchorElement).style.background = '#f0f0f0'}
+              onMouseOut={(e) => (e.target as HTMLAnchorElement).style.background = 'white'}
               >
                 View Case Studies
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginLeft: '8px', display: 'inline-block', verticalAlign: 'middle' }}>

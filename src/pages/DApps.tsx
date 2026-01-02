@@ -1,61 +1,26 @@
 import React from 'react';
+const BannerImage = '/assets/images/newBanner/bl12.png';
 const Dapps = '/assets/images/Banner/newbanimg/dapps.png';
 
 const DApps = () => {
   return (
     <main>
-      {/* Updated Banner Section - Properly Aligned & Responsive */}
-      <div className="banner container-fluid d-flex align-items-center justify-content-center" style={{ backgroundColor: '#e6f7ff' }}>
-        <div className="row w-100 h-100 gx-0">
-          <div className="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-center text-center px-4 py-5">
-            <h2 className="fw-bolder mb-0" style={{ fontSize: '4rem', color: '#000', lineHeight: '1.2' }}>
-              Apps powered<br />by Web3
-            </h2>
-          </div>
-          <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center p-4">
-            <img
-              className="img-fluid"
-              src={Dapps}
-              alt="DApps"
-              style={{ maxHeight: '520px', objectFit: 'contain' }}
-            />
-          </div>
-        </div>
+      {/* Full-width Banner Image */}
+      <div className="banner-full-image">
+        <img src={BannerImage} alt="DApps Banner" className="banner-img" />
       </div>
 
-      {/* Banner-specific responsive styles */}
+      {/* Banner styles */}
       <style dangerouslySetInnerHTML={{
         __html: `
-          .banner {
-            min-height: 600px;
-            background-color: #e6f7ff;
+          .banner-full-image {
+            width: 100%;
+            overflow: hidden;
           }
 
-          @media (max-width: 992px) {
-            .banner h2 {
-              font-size: 3.2rem !important;
-            }
-          }
-
-          @media (max-width: 768px) {
-            .banner {
-              min-height: 500px;
-            }
-            .banner h2 {
-              font-size: 2.8rem !important;
-            }
-          }
-
-          @media (max-width: 576px) {
-            .banner {
-              min-height: 450px;
-            }
-            .banner h2 {
-              font-size: 2.3rem !important;
-            }
-            .banner img {
-              max-height: 300px !important;
-            }
+          .banner-img {
+            width: 100%;
+            display: block;
           }
         `
       }} />
